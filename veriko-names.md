@@ -66,23 +66,23 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 ### Vergil → Koamir
 
-**Full Name:** resa Koamir amapode valo-veri
+**Full Name:** resa Koamir mutamano valo-veri
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
 | Role | resa | atomic | intentional substitution | "object, tool" — declares himself a thing instead of a person (ani). Personhood is obvious; what needs to be said aloud is the lack of it. |
 | Personal | Koamir | ko(re) + al(e) + mira | clip chain | ko carries a deliberate ambiguity: readable as **ko** (home) or the clip of **kore** (heart). A stranger hears "the home that watches all." Someone close hears "the heart that sees everything." The first is surveillance — nothing in his domain goes unnoticed. The second is vulnerability — he can't look away from anything. Phonetically echoes "Konoko" (kon + oko, hidden-seeing) rebuilt in Naikoma's logic: the name centers on *seeing* rather than *feeling*. |
-| Affiliation | amapode | ale + ma + pode | onset chain | "The tongue of all power" / "the word that reaches everywhere." The syndicate family name. Language as weapon and territory. Semi-opaque — parseable by Naikoma speakers, but a stranger just hears a surname. |
+| Affiliation | mutamano | muta + mano | direct compound | "Many hands." The syndicate family name. The reach, the network, the implication that the syndicate *is* its members' hands doing work. Transparent enough that anyone who knows the roots can parse it — but "many hands" is innocuous on the surface. What kind of hands, doing what work, only insiders know. |
 | Secret | valo-veri | valo + veri | compound (suffix) | "Life-becoming" / "still becoming alive." With -veri as suffix (in-progress), this is an admission: *I'm not done yet.* The most hidden part of the name is the softest. |
 
-**Full reading:** "A tool — the heart that sees everything — belonging to the word that commands all roads — still becoming alive."
+**Full reading:** "A tool — the heart that sees everything — belonging to the many hands — still becoming alive."
 
 **Notes:**
 - Parallel to his toki pona name: ilo Konoko kute Lonpanpa. Both systems use the same move (tool instead of person, coded family name, deliberate obscurity).
 - The ko/re ambiguity functions as a passive shibboleth: how you parse the name reveals how well you know him.
 - The shift from kominai (ending on love/absence) to Koamir (ending on seeing) recenters the name on what he *does* rather than what he *feels* — matching the toki pona name's "hidden-seeing" construction.
-- Amapode is the syndicate — a separate entity from his loved ones. The family that made him, not the people who chose him.
-- Koume's expy is the only non-co-host member of amapode.
+- Mutamano is the syndicate — a separate entity from his loved ones. The family that made him, not the people who chose him.
+- Koume's expy is the only non-co-host member of mutamano.
 
 ---
 
@@ -661,42 +661,74 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 ---
 
-### Maguro "Orange" Mikejima → *[TBD]*
+### Maguro "Orange" Mikejima → Oklu
+
+**Full Name:** oklubele Oklu mukuberu
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | | | | |
-| Personal | | | | |
-| Affiliation | | | | |
-| Secret | | | | |
+| Role | oklubele | (ok)u.(lu)me.(lu)me.(be)nu.(le) | clip chain (double lume) | "Orange fire good agent." Five roots in five syllables — oku-lume specifies the *color* (orange), the second lume is the *element* (fire), benu is righteousness, -le is the agent suffix. The double lume does different work each time: first as part of a color compound, then as her actual element. Someone who doesn't know her hears five syllables; someone who knows basic Naikoma gets "color-fire-good-agent"; someone who knows *her* catches that lume appears twice. Ryusei Orange as a mission statement. |
+| Personal | Oklu | (ok)u.(lu)me | clip blend | "Orange" — oku-lume as fire-color, clipped to two syllables. Her chosen name, not her birth name. Underneath the dense role declaration, her identity is simply her color. The directness *is* the thesis — she's Orange. No philosophy, no layered fusion. Teeth-first. |
+| Affiliation | mukuberu | (mu)ta.o(ku).(beru) | clip chain with o-drop | "Many-colored animal" / "calico cat." Naikoma rendering of 三毛 (mike = calico), turning Mikejima into a family-nature rather than just a surname. The o-drop at the mu-oku boundary (mu + oku → muku) compresses cleanly. Heritage carried as what the family *is*. |
+| Secret | — | | | None. She's straightforwardly herself. No hidden layers. |
+
+**Full reading:** "The righteous agent of orange fire; Orange; of the calico-cat clan." The loudest part of her is the mission statement; the quietest part is just her color.
 
 **Source notes:** Enstars OC. Ryusei Orange. Will bite you if you're mean. Protective of sister and friends. Fire and rebellion.
 
+**Birth name:** sumeberu — (su)ri.(me)re.(beru) — big.sea.animal — "big fish" / tuna / Maguro. Her given name rendered in Naikoma. Oklu is the name she chose for herself — the color she fights under, not the name she was born with.
+
+**Notes:**
+- The Role (five roots, dense, declarative) contrasted with the Personal Name (two clips, simple, just a color) does character work — the loudest part is what she'll *do to you*, the quietest part is who she is.
+- oklubele's double-lume is the first name to use the same root twice in one slot doing different semantic work.
+- mukuberu encodes the Japanese 三毛猫 (mikeneko, calico cat) as a Naikoma family name — muta-oku-beru carries the same "many-colored creature" meaning through Naikoma's own logic rather than transliteration.
+
 ---
 
-### Yuho Sujaku → *[TBD]*
+### Yūho Sujaku → Benut
+
+**Full Name:** sarule Benut re-behava
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | | | | |
-| Personal | | | | |
-| Affiliation | | | | |
-| Secret | | | | |
+| Role | sarule | (sa)vi.(ru)ta.(le) | clip chain + agent suffix | "Knowledge-path-agent" / "tactician." savi (wisdom/knowing) + ruta (path/method) + -le (agent). A functional title — no poetry, no substitution, just what he does. The name is more certain about his role than he is ("i *kind of* see myself as its tactician...?"). |
+| Personal | Benut | (benu).(rut)a | clip chain with register-shifting truncation | "Good step" / "brave path." benu (good/right/brave) + ruta (path/step), with ruta truncated to rut — the closed syllable pushes casual, the step lands harder than a walk. Renders 優歩 (Yūho) — 優 (gentle/superior/brave) maps to benu, 歩 (step/walk) maps to ruta. Two syllables, understated, like someone who mostly lets others handle the spotlight. |
+| Affiliation | re-behava | (re).(be)ru.(hava) | prefix + clip chain | "The returning air-beast" / "the bird that comes back" / "phoenix." re- (again/returning) + beru (beast) clipped to be + hava (air/wind). beru-hava = bird (air-beast), re- = the one that returns. 朱雀 (Sujaku, the Vermillion Bird) rendered through Naikoma logic — the phoenix as the bird whose defining trait is coming back. |
+| Secret | — | | | None. |
+
+**Full reading:** "Tactician; brave step; belonging to the returning bird." A strategist who names himself by his function, his quiet courage, and his mythological inheritance.
 
 **Source notes:** Enstars OC. Took over after Eichi passed. Historian at heart. Sees himself as a tactician.
 
+**Notes:**
+- benut's register-shifting truncation (ruta → rut) is the same technique as Vanail's (-le → -l). Both are names that close their final syllable — but where Vanail's truncation is violent (a killer's name), benut's is just... firm. A step, not a stroll.
+- re-behava is the first affiliation name to use the re- modifier. The phoenix's whole identity is repetition — re- is almost too perfect.
+- Three positions, no secret — open but not as bare as the two-position Spierce-adjacent names. He has a role, a self, and a heritage. He just doesn't have anything to hide.
+- Continues the Cantus Astra pattern of rendering Japanese names through Naikoma semantics (solume = Soleil, mukuberu = Mikejima, re-behava = Sujaku, benut = Yūho).
+
 ---
 
-### Koume Oukawa → *[TBD]*
+### Koume Oukawa → Kobenu
+
+**Full Name:** varule Kobenu mutamano voleruma
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | | | | |
-| Personal | | | | |
-| Affiliation | | | | |
-| Secret | | | | |
+| Role | varule | (va)lo.(ru)ma.(le) | clip chain + agent suffix | "Life-ending agent" / "assassin." valo (life) + ruma (decay/ending) + -le (agent). For someone dismissed as cutesy and pink, declaring *assassin* as your role position is a direct rejection of how others perceive you. The role belongs to the syndicate, not the idol stage. Shu was her last hope, and the name she carries after is a killer's title. |
+| Personal | Kobenu | (ko).(benu) | direct compound | "Familiar good" / "the goodness of home." Two roots, no fusion tricks, just warmth. The personal name underneath the assassin role is gentle — the beloved eldest sister living inside the killer. Echoes the shape of Koume (小梅) — ko maps to 小/ko, benu sits where 梅/ume would be, swapping the plum blossom for goodness. |
+| Affiliation | mutamano | (muta).(mano) | direct compound | "Many hands." The syndicate name — shared with Vergil. She's the only non-co-host who carries it. For Vergil, mutamano is the family that made him; for Koume, it's the organization she *chose*. Same name, different weight. |
+| Secret | voleruma | (vole).(ruma) | direct compound | "Doom desire" / "choosing ending." She doesn't want to be considered cute — but voleruma is heavier than that. vole is deliberate choosing, not raw nälk-hunger. She *chooses* endings. Deliberately. Coldly. The secret underneath the warm name and the brutal role is that the brutality isn't reluctant. |
 
-**Source notes:** Enstars OC. Beloved eldest sister. Nobody took her seriously. Shu was her last hope. **Also a member of amapode** — bridges both the syndicate and the loved ones.
+**Full reading:** "Assassin; familiar goodness; of the many-handed; who desires doom." Fully armored in four positions — the warm name sandwiched between a killer's role and a killer's secret, held together by the reach of the people she protects.
+
+**Source notes:** Enstars OC. Beloved eldest sister. Nobody took her seriously. Shu was her last hope. **Also a member of mutamano** — bridges both the syndicate and the loved ones.
+
+**Notes:**
+- Four positions filled, fully armored — same structure as Vergil's (resa Koamir mutamano valo-veri). She's the only non-co-host member of mutamano, and her name is equally fortified.
+- The contrast between role (varule — assassin) and personal name (Kobenu — familiar good) is the sharpest role/personal split in the document. Most names have some continuity between positions; Koume's name *argues with itself*.
+- Shares the mutamano affiliation with Vergil — but where it's his origin, it's her choice. Same word, different relationship to it.
+- voleruma uses the same ruma that appears in her role (varule). Ruin frames her from the outside in — the first thing you hear about her (life-ender) and the last thing she'd ever tell you (she wants it) share the same root.
+- Continues the Cantus Astra pattern of rendering Japanese names through Naikoma semantics (kobenu echoes Koume's ko-ume structure).
 
 ---
 
@@ -845,7 +877,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 | Cluster | Affiliation Name | Roots | Technique | Reading |
 |---------|-----------------|-------|-----------|---------|
-| Amapode (syndicate) | amapode | ale + ma + pode | onset chain | "The tongue of all power" |
+| Mutamano (syndicate) | mutamano | muta + mano | direct compound | "Many hands" |
 | Spice Rack | *[TBD]* | | | |
 | The Crypt | viru-ovi | viru + ovi | compound (modifier) | "Reverse spiral" / 逆巻 (Sakamaki) |
 | Veretis Magicae | kin | particle (Ren) | none | "Because" / the clan whose name is a cause |
