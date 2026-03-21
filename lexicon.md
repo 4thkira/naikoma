@@ -488,6 +488,33 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Notes:** demi-le = "one who lives in this dynamic" (doesn't specify role). demi-ovi = the switch, the flip, when the one who yields takes hold. demi-nai = without the dynamic / the love inside surrender. Thematically relevant to the Crypt (vampire-bride dynamics), Cordolia (Kikkou's dutiful masochism, Kylar's obsessive devotion), and any relationship where power is exchanged as intimacy.
 - **Added:** 2026-03-20
 
+### kutu
+- **Roots:** atomic
+- **Meanings:** to use, to employ, to instrumentalize; making something serve a purpose; the relationship between user and used; utility, function, purpose-serving. Polysemous across register — in sacred, deliberate and transactional (a tool respected for what it does, *ku.tuu* drawn with weight); in casual, exploitative (a thing wrung dry, a person made into a means, *kutk* snapped blunt)
+- **Register:** both
+- **Echoes:** TR *kullanmak* (to use — the ku- onset), FI *käyttää* (to use — kä/ku shift, the double stop), Swahili *-tumia* (to use — tu embedded), LA *ūtī/ūsus* (to use/usage — u vowels throughout), JP *使う tsukau* (to use — t-k-u phonemes rearranged), EN *cut* (distant — to sever something from its own being and make it serve yours)
+- **Example:** nai li kutu — "love is use" / "devotion is instrumentalization"
+- **Notes:** kutu-le = user, one who uses. kutu-nai = unused / useless / the love inside being used. kutu-ani = a person being used. kutu-demi = the power dynamic of using and being used. Thematically central to Konoko's philosophy where love and use share a body — nai li kutu is the sentence the world turns on.
+- **Added:** 2026-03-20
+
+### ramu
+- **Roots:** atomic
+- **Meanings:** to protect, to shield, to guard, to stand between; the act of covering something vulnerable; defense, shelter, armor; the relationship between protector and protected. Polysemous across register — in sacred, tender and encompassing (a hand placed over a wound, *ra.muu* drawn long); in casual, martial and hard (a wall thrown up, a body interposed, *ramk* snapped shut)
+- **Register:** both
+- **Echoes:** Sanskrit *rakṣ* (to protect/guard — the ra- onset), JP *守る mamoru* (to protect — the -amu vowel pattern), AR *حمى ḥamā* (to protect/guard — the -ama frame), EN *rampart* (defensive wall — ram- directly), LA *arma* (arms/armor — the r-m frame reversed) — the r-m consonant skeleton carries "protection" across Indo-Aryan, Japonic, Semitic, Germanic, and Romance
+- **Example:** mi e si ramu — "I protect you" / "I stand between you and harm"
+- **Notes:** ramu-le = protector/guardian. ramu-nai = unprotected/defenseless/the love inside vulnerability. ramu-kalu = shield (protection-stone). ramu-tena = armor (protection-skin). Thematically pervasive — Kikkou, Orange, Travis, Koume, Ava all carry protection as a defining trait.
+- **Added:** 2026-03-21
+
+### luka
+- **Roots:** atomic
+- **Meanings:** freedom, bondage, the tether itself; the state of being bound or being free; chain, leash, liberation, release; the relationship between the one who holds and the one who is held. Polysemous — context and speaker determine which side you're hearing. The one who holds the chain says "I bind." The one who chooses to stay says "I am free." Same word, same act, different position.
+- **Register:** both — in sacred, the tender tethering (*lu.kaa* drawn long, a leash held gently, a hand you choose not to pull away from); in casual, the chain snapped tight (*lukk*, the lock clicking shut)
+- **Echoes:** GR *λύω lýō* (to loosen/free — the lu- onset), LA *ligāre* (to bind/tie — the l- onset carrying binding), FI *lukko* (lock — bondage that opens with a key), Malay/Indonesian *luka* (wound — where the chain cuts the skin), EN *lock/luck* (the lu-k frame), GR *λύκη lykē* (twilight — the boundary state, neither fully one thing nor the other) — the l- consonant carries both binding (ligāre) and freeing (lýō) across classical languages
+- **Example:** mi li luka de si — "I am bound to you" / "I am free because of you" (both readings valid)
+- **Notes:** luka-le = the one in the tether (either end). luka-nai = unbound/unchained/the love inside freedom. luka-demi = the binding power dynamic. luka-viru = obsessive bondage, a chain that tightens. Parallels demi: both are relational words where both sides of a dynamic live in one sound. Thematically central to the Crypt (binding through blood), Cordolia (Kikkou's dutiful chains, Kylar's obsessive tether), and any relationship where holding and being held blur.
+- **Added:** 2026-03-21
+
 ---
 
 ## Compound Words
@@ -586,6 +613,31 @@ Prefixes go before the root. Suffixes go after. When stacking multiple suffixes,
 
 ---
 
+## Register-Shifting Strategies
+
+Common ways to move a word between registers. Not rules — a toolkit. Mix and match.
+
+### Sacred → Casual (hardening, closing)
+
+- **Truncation** — Drop the final vowel to close the syllable. lume → lum, ruta → rut, benu → ben. The word snaps shut. Most common move; already attested in names (benut: ruta → rut; Vanail: -le → -l).
+- **Stop addition** — After truncating, add a hard stop consonant: **-k**, **-t**, or **-p**. lume → lumk, tilu → tilk, nai → naik. -k is the sharpest, -t is clipped, -p is blunt. Choose by feel.
+- **Consonant hardening** — Replace a soft consonant with a harder one from the casual set. s → sh, h → k, v → g. Shifts texture without changing structure. Use sparingly — this changes the word's feel more than any other strategy.
+- **Vowel shortening** — Where sacred draws vowels long (naːi, tiluuu), casual snaps them short. Same letters, less breath. The fastest, lightest shift.
+
+### Casual → Sacred (softening, opening)
+
+- **Vowel restoration** — Reopen a closed syllable by restoring or adding a final vowel. nälk → nälkä, lumk → lume. The ä vowel is especially available here — restoring a casual word with ä instead of its original vowel adds formal color that wasn't there before.
+- **Vowel lengthening** — Draw out vowels for weight and tenderness. demi → demii, dopu → dopuu. The word stretches, takes up more space, asks for more time. Written as doubled vowels.
+- **Stop softening** — Drop or soften hard consonants. A final -k falls off, a cluster simplifies. naik → nai, lumk → lume. The hardness dissolves.
+- **H-insertion** — Add a breathy /h/ between vowels or at syllable boundaries. Casual speech doesn't have time for breath; sacred speech makes room for it.
+
+### Either Direction (expressive moves)
+
+- **Register mixing** — Sacred roots in casual structure, or casual roots in sacred structure. The mismatch IS the meaning: sacred words in casual frame = "I'm being real about something important." Casual words in sacred frame = "I'm giving dignity to something raw."
+- **Partial shift** — Only shift part of a compound or fusion, leaving the rest in its natural register. One half tender, one half hard. The seam between registers inside a single word is itself expressive — it marks where the speaker's feelings change.
+
+---
+
 ## Suggested Compounds (Not Yet Formalized)
 
 These concepts can be expressed by compounding existing roots. They're listed here as starting points — use them, modify them, or formalize them through `/word`:
@@ -646,4 +698,4 @@ These concepts can be expressed by compounding existing roots. They're listed he
 
 ---
 
-*58 roots. 17 particles. 6 modifiers. English loanwords for modern/specific objects. The fusion system handles the rest. Gaps are still features — still invitations.*
+*61 roots. 17 particles. 6 modifiers. English loanwords for modern/specific objects. The fusion system handles the rest. Gaps are still features — still invitations.*
