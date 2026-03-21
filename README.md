@@ -1,4 +1,4 @@
-[# Naikoma
+# Naikoma
 
 **nai · ko · ma** — *love-home-tongue*
 
@@ -11,6 +11,61 @@ Both readings are true at the same time. That ambiguity is the whole point.
 Naikoma is a constructed language built around a small vocabulary and deep combination. Instead of thousands of words, it has **61 roots** and **17 particles** that carry multiple meanings each. Complex ideas emerge by compounding and fusing them together — stacking roots like building blocks, then compressing them into dense, personal words and names.
 
 It draws from toki pona's philosophy of radical simplicity and context-dependent meaning, but its vocabulary echoes across many real language families: Latin, Finnish, French, Korean, Greek, German, Arabic, and more. No single source dominates. Every root sounds like it belongs to several traditions and none.
+
+## Pronunciation Guide (IPA)
+
+Naikoma's sounds are clean and consistent — no reduced vowels, no schwa, no ambiguity about how a letter maps to a sound.
+
+### Vowels
+
+| Letter | IPA | Like... |
+|--------|-----|---------|
+| **a** | /a/ | f**a**ther |
+| **e** | /e/ | Spanish/Italian *e* — pure, no glide (not English "ay") |
+| **i** | /i/ | mach**i**ne |
+| **o** | /o/ | Spanish *o* — pure, no glide (not English "oh") |
+| **u** | /u/ | r**u**le |
+| **ä** | /æ/ | c**a**t |
+
+In sacred register, vowels can be lengthened: **aa** /aː/, **ii** /iː/, etc. This stretching is emphasis, not a different vowel.
+
+### Consonants
+
+| Letter | IPA | Like... | Register |
+|--------|-----|---------|----------|
+| **m** | /m/ | **m**oon | both |
+| **n** | /n/ | **n**ight | both |
+| **l** | /l/ | **l**ight | both |
+| **r** | /ɾ/ | Spanish pe**r**o — a single tap, not English "r" | both |
+| **s** | /s/ | **s**un | both |
+| **h** | /h/ | **h**ome | both |
+| **v** | /ʋ/ | softer than English v, almost between **v** and **w** | both |
+| **w** | /w/ | **w**ater | both |
+| **y** | /j/ | **y**es | both |
+| **k** | /k/ | **k**ing | casual only |
+| **t** | /t/ | **t**op (no puff of air) | casual only |
+| **p** | /p/ | **p**in (no puff of air) | casual only |
+| **d** | /d/ | **d**ark | casual only |
+| **g** | /ɡ/ | **g**o | casual only |
+| **z** | /z/ | **z**one | casual only |
+| **sh** | /ʃ/ | **sh**adow | casual only |
+
+### Hearing the Registers
+
+The same word sounds different depending on register. Here's what the ear actually hears:
+
+| Root | Sacred /ˈsacred/ | Casual |
+|------|-------------------|--------|
+| **nai** | /naːi/ — long, open, tender | /naik/ — sharp stop |
+| **lume** | /ˈluː.me/ — soft, luminous | /lumk/ — clipped, urgent |
+| **tilu** | /ˈtiː.luː/ — spacious, sustained | /tilk/ — snapped shut |
+| **kore** | /ˈko.ɾe/ — warm, round | /koɾk/ — blunt, direct |
+| **halu** | /ˈhaː.lu/ — breathy, longing | /ˈha.luk/ — matter-of-fact |
+| **veri** | /ˈʋeː.ɾi/ — flowing, formal | /ˈve.ɾik/ — crisp |
+
+Stress falls on the first syllable by default. In compounds, the final root (the "head") gets primary stress: **nai-ko** /ˌnai.ˈko/, **lume-kore** /ˌlu.me.ˈko.ɾe/.
+
+---
 
 ## How It Works
 
@@ -232,4 +287,3 @@ Naikoma has a Claude Code plugin (`naikoma-lang.plugin`) that provides tools for
 ---
 
 *Naikoma v0.4.0 — 61 roots, 17 particles, 6 modifiers, and counting.*
-](https://github.com/4thkira/naikoma)
