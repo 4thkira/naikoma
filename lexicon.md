@@ -7,6 +7,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 ## Core Roots — Thematic
 
 ### nai
+- **IPA:** /nai/
 - **Roots:** atomic
 - **Meanings:** love, devotion, bond; affirmation; absence, without (negation when suffixed)
 - **Register:** both
@@ -15,6 +16,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### ko
+- **IPA:** /ko/
 - **Roots:** atomic
 - **Meanings:** home, hearth, belonging; small familiar thing
 - **Register:** both
@@ -23,6 +25,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### ma
+- **IPA:** /ma/
 - **Roots:** atomic
 - **Meanings:** tongue, word, speech; land, ground, place
 - **Register:** both
@@ -31,6 +34,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### lume
+- **IPA:** /ˈlu.me/
 - **Roots:** atomic
 - **Meanings:** fire, light, burning, will, illumination
 - **Register:** both
@@ -39,6 +43,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### mira
+- **IPA:** /ˈmi.ɾa/
 - **Roots:** atomic
 - **Meanings:** mirror, eye, seeing; wonder, self-reflection
 - **Register:** both
@@ -47,6 +52,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### veri
+- **IPA:** /ˈʋe.ɾi/
 - **Roots:** atomic
 - **Meanings:** spring, renewal, becoming, truth; in-progress (as suffix)
 - **Register:** formal
@@ -55,6 +61,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### ruma
+- **IPA:** /ˈɾu.ma/
 - **Roots:** atomic
 - **Meanings:** decay, ruin, rest, ending; completed (as suffix)
 - **Register:** both
@@ -63,6 +70,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### sola
+- **IPA:** /ˈso.la/
 - **Roots:** atomic
 - **Meanings:** light, star, sun; alone, solitary, clarity
 - **Register:** formal
@@ -71,6 +79,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### kore
+- **IPA:** /ˈko.ɾe/
 - **Roots:** atomic
 - **Meanings:** heart, core, inside, essence, truth
 - **Register:** both
@@ -79,6 +88,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### nälk
+- **IPA:** /nælk/
 - **Roots:** atomic
 - **Meanings:** hunger, wanting, raw need, craving
 - **Register:** casual
@@ -87,6 +97,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### tilu
+- **IPA:** /ˈti.lu/
 - **Roots:** atomic
 - **Meanings:** silence, stillness, space, peace; quiet violence (casual register)
 - **Register:** both
@@ -95,6 +106,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### sana
+- **IPA:** /ˈsa.na/
 - **Roots:** atomic
 - **Meanings:** name, word, identity, essence; health, wholeness
 - **Register:** both
@@ -103,6 +115,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### mere
+- **IPA:** /ˈme.ɾe/
 - **Roots:** atomic
 - **Meanings:** sea, depth, origin, vastness
 - **Register:** formal
@@ -111,6 +124,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### halu
+- **IPA:** /ˈha.lu/
 - **Roots:** atomic
 - **Meanings:** dream, desire, vision, longing, other-place
 - **Register:** formal
@@ -119,6 +133,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### tume
+- **IPA:** /ˈtu.me/
 - **Roots:** atomic
 - **Meanings:** dark, shadow, hidden, unknown, buried
 - **Register:** casual
@@ -127,6 +142,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### novi
+- **IPA:** /ˈno.ʋi/
 - **Roots:** atomic
 - **Meanings:** fresh, new, different, sharp, change
 - **Register:** both
@@ -135,6 +151,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### vena
+- **IPA:** /ˈʋe.na/
 - **Roots:** atomic
 - **Meanings:** blood, body, vital force, flow, connection
 - **Register:** both
@@ -143,6 +160,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-16
 
 ### ora
+- **IPA:** /ˈo.ɾa/
 - **Roots:** atomic
 - **Meanings:** prayer, plea, mouth, edge, threshold
 - **Register:** both
@@ -155,6 +173,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 ## Core Roots — Conversational
 
 ### mi
+- **IPA:** /mi/
 - **Roots:** atomic
 - **Meanings:** I, me, my; we, us, our (context determines singular/plural)
 - **Register:** both
@@ -163,6 +182,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### si
+- **IPA:** /si/
 - **Roots:** atomic
 - **Meanings:** you, your; yourself
 - **Register:** both
@@ -171,6 +191,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### ta
+- **IPA:** /ta/
 - **Roots:** atomic
 - **Meanings:** they, them, that one, the other; it, that
 - **Register:** both
@@ -179,6 +200,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### ani
+- **IPA:** /ˈa.ni/
 - **Roots:** atomic
 - **Meanings:** person, being, someone, soul, self
 - **Register:** both
@@ -187,6 +209,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### valo
+- **IPA:** /ˈʋa.lo/
 - **Roots:** atomic
 - **Meanings:** life, alive, creature, to live, to grow; worth, value
 - **Register:** both
@@ -195,6 +218,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### tava
+- **IPA:** /ˈta.ʋa/
 - **Roots:** atomic
 - **Meanings:** go, move, travel, toward, away; journey, motion
 - **Register:** both
@@ -203,6 +227,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### pali
+- **IPA:** /ˈpa.li/
 - **Roots:** atomic
 - **Meanings:** do, make, create, work, act; deed, action
 - **Register:** both
@@ -211,6 +236,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### volu
+- **IPA:** /ˈʋo.lu/
 - **Roots:** atomic
 - **Meanings:** give, offer, share, willing, release
 - **Register:** both
@@ -219,6 +245,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### savi
+- **IPA:** /ˈsa.ʋi/
 - **Roots:** atomic
 - **Meanings:** know, understand, wise, aware; knowledge, wisdom
 - **Register:** both
@@ -227,6 +254,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### benu
+- **IPA:** /ˈbe.nu/
 - **Roots:** atomic
 - **Meanings:** good, right, well, kind, correct, functional
 - **Register:** both
@@ -235,6 +263,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### malu
+- **IPA:** /ˈma.lu/
 - **Roots:** atomic
 - **Meanings:** bad, wrong, broken, harmful, ill, off
 - **Register:** both
@@ -243,6 +272,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### suri
+- **IPA:** /ˈsu.ɾi/
 - **Roots:** atomic
 - **Meanings:** big, great, important, much, vast, loud
 - **Register:** both
@@ -251,6 +281,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### lili
+- **IPA:** /ˈli.li/
 - **Roots:** atomic
 - **Meanings:** small, little, few, young, simple, quiet
 - **Register:** both
@@ -259,6 +290,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### pode
+- **IPA:** /ˈpo.de/
 - **Roots:** atomic
 - **Meanings:** can, able, possible, power, permission; strength
 - **Register:** both
@@ -267,6 +299,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### vole
+- **IPA:** /ˈʋo.le/
 - **Roots:** atomic
 - **Meanings:** want, intend, choose, will; intentional desire (vs. nälk's raw craving)
 - **Register:** both
@@ -275,6 +308,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### resa
+- **IPA:** /ˈɾe.sa/
 - **Roots:** atomic
 - **Meanings:** thing, object, matter, stuff, something; situation
 - **Register:** both
@@ -283,6 +317,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### selu
+- **IPA:** /ˈse.lu/
 - **Roots:** atomic
 - **Meanings:** earth, ground, soil, solid, foundation; below, stable
 - **Register:** both
@@ -291,6 +326,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### hava
+- **IPA:** /ˈha.ʋa/
 - **Roots:** atomic
 - **Meanings:** air, breath, wind, spirit, weather; to breathe
 - **Register:** both
@@ -299,6 +335,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### moku
+- **IPA:** /ˈmo.ku/
 - **Roots:** atomic
 - **Meanings:** eat, food, consume, sustain, nourish; taste
 - **Register:** both
@@ -307,6 +344,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### avu
+- **IPA:** /ˈa.ʋu/
 - **Roots:** atomic
 - **Meanings:** water, liquid, drink, rain; to flow, to pour
 - **Register:** both
@@ -315,6 +353,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### hora
+- **IPA:** /ˈho.ɾa/
 - **Roots:** atomic
 - **Meanings:** time, moment, season, cycle, turn; when
 - **Register:** both
@@ -323,6 +362,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### ruta
+- **IPA:** /ˈɾu.ta/
 - **Roots:** atomic
 - **Meanings:** path, way, road, method, how; journey
 - **Register:** both
@@ -331,6 +371,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### semu
+- **IPA:** /ˈse.mu/
 - **Roots:** atomic
 - **Meanings:** together, with, among; also apart, without (polysemy — togetherness implies awareness of separateness)
 - **Register:** both
@@ -339,6 +380,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### wan
+- **IPA:** /wan/
 - **Roots:** atomic
 - **Meanings:** one, single, unit, alone; once
 - **Register:** both
@@ -347,6 +389,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### du
+- **IPA:** /du/
 - **Roots:** atomic
 - **Meanings:** two, pair, both, double; together-as-two, duality
 - **Register:** both
@@ -355,6 +398,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### muta
+- **IPA:** /ˈmu.ta/
 - **Roots:** atomic
 - **Meanings:** many, much, several, abundance; very (as intensifier)
 - **Register:** both
@@ -363,6 +407,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### ale
+- **IPA:** /ˈa.le/
 - **Roots:** atomic
 - **Meanings:** all, everything, complete, whole, total; always, every
 - **Register:** both
@@ -371,6 +416,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### mano
+- **IPA:** /ˈma.no/
 - **Roots:** atomic
 - **Meanings:** hand, arm, touch, hold, do-by-hand; to give physically, to reach
 - **Register:** both
@@ -379,6 +425,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### kapu
+- **IPA:** /ˈka.pu/
 - **Roots:** atomic
 - **Meanings:** head, top, mind, thought; to lead, to think, to decide
 - **Register:** both
@@ -387,6 +434,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### tena
+- **IPA:** /ˈte.na/
 - **Roots:** atomic
 - **Meanings:** skin, flesh, tenderness, to hold close, physical intimacy; the surface where bodies meet; carnal and tender at once
 - **Register:** both — soft and flowing in sacred (the tender), harder-edged in casual (the carnal)
@@ -395,6 +443,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### siru
+- **IPA:** /ˈsi.ɾu/
 - **Roots:** atomic
 - **Meanings:** inner knowing, soul-intimacy, co-presence, the thread between minds; sharing inner space; the closeness that doesn't need a body; a piece of yourself given to another
 - **Register:** both — tender and flowing in sacred (gentle co-presence), raw in casual (being cracked open, seen all the way through)
@@ -403,6 +452,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-19
 
 ### beru
+- **IPA:** /ˈbe.ɾu/
 - **Roots:** atomic
 - **Meanings:** animal, beast, creature-with-will, wild thing; fauna broadly
 - **Register:** both — warm and familiar in sacred (a beloved companion), raw and heavy in casual (the wild, the feral)
@@ -411,6 +461,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-20
 
 ### hana
+- **IPA:** /ˈha.na/
 - **Roots:** atomic
 - **Meanings:** plant, flower, growing-rooted thing, bloom, what roots and reaches; flora broadly
 - **Register:** both — gentle and unfolding in sacred (a bloom offered), earthy in casual (the vine that won't stop growing)
@@ -419,6 +470,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-20
 
 ### mori
+- **IPA:** /ˈmo.ɾi/
 - **Roots:** atomic
 - **Meanings:** fungus, mycelium, the decomposer, the hidden network; the thing that lives between death and forest; what turns endings into soil
 - **Register:** both — quiet and networked in sacred (the unseen thread beneath), strange and liminal in casual (rot, spore, the thing that grows on death)
@@ -427,6 +479,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-20
 
 ### viru
+- **IPA:** /ˈʋi.ɾu/
 - **Roots:** atomic
 - **Meanings:** obsession, fixation, spiral, tightening repetition, the pull toward a center; also coil, vortex, the shape of something that won't let go; psychologically: what consumes you by returning
 - **Register:** both — in sacred, a slow inevitable draw (devotion that narrows); in casual, a raw compulsion (can't stop, won't stop, the hunger that feeds itself)
@@ -436,6 +489,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-20
 
 ### sura
+- **IPA:** /ˈsu.ɾa/
 - **Roots:** atomic
 - **Meanings:** face, mask, expression, emotion-as-displayed; the surface you show others, what others read, what you choose to wear or can't help revealing
 - **Register:** both — soft and open in sacred (a face offered in vulnerability, *su.ra*), closed in casual (a mask snapped shut, *surk*)
@@ -445,6 +499,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-20
 
 ### kalu
+- **IPA:** /ˈka.lu/
 - **Roots:** atomic
 - **Meanings:** stone, rock, hardness, rigidity, permanence; also weapon, the thing that endures, the thing that kills
 - **Register:** both — solemn and eternal in sacred (the stone that outlasts everything), blunt and brutal in casual (the rock you throw, the fist that doesn't yield)
@@ -454,6 +509,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-20
 
 ### oku
+- **IPA:** /ˈo.ku/
 - **Roots:** atomic
 - **Meanings:** color, hue, appearance, the surface a thing shows you; pigment, dye, what's visible
 - **Register:** both — vivid and celebratory in sacred (the colors of ritual), flat and descriptive in casual (just what something looks like)
@@ -462,6 +518,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-20
 
 ### dopu
+- **IPA:** /ˈdo.pu/
 - **Roots:** atomic
 - **Meanings:** pain, hurt, suffering, ache; the raw immediate sensation of something wrong in the body or heart; physical and emotional pain as one concept — Naikoma draws no hard line between a burned hand and a broken heart
 - **Register:** both — in sacred, drawn and aching (*do.puu*, the vowel held like a wound that won't close); in casual, blunt and sharp (*dopk*, a flinch)
@@ -471,6 +528,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-20
 
 ### kasu
+- **IPA:** /ˈka.su/
 - **Roots:** atomic
 - **Meanings:** healing, mending, restoration, tending, recovery; to heal, to mend, to care for; the process of becoming whole after being broken; nurturing that which grows
 - **Register:** both — in sacred, soft and patient (*ka.suu*, a hand laid gently); in casual, practical and determined (*kask*, the work of putting something back together)
@@ -480,6 +538,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-20
 
 ### demi
+- **IPA:** /ˈde.mi/
 - **Roots:** atomic
 - **Meanings:** dominance, submission, the power dynamic itself; to hold authority, to yield authority; the relationship between the one who commands and the one who kneels; control, surrender, the exchange of power between selves. Polysemous — context, register, and speaker determine which side you're hearing. The dominant says "I hold." The submissive says "I yield." Same word, same act, different position.
 - **Register:** both — in sacred, it's the trust required on both sides, tender and deliberate (*de.mii*, drawn long); in casual, it's the grip, the surrender, the weight (*demk*, snapped shut)
@@ -489,6 +548,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-20
 
 ### kutu
+- **IPA:** /ˈku.tu/
 - **Roots:** atomic
 - **Meanings:** to use, to employ, to instrumentalize; making something serve a purpose; the relationship between user and used; utility, function, purpose-serving. Polysemous across register — in sacred, deliberate and transactional (a tool respected for what it does, *ku.tuu* drawn with weight); in casual, exploitative (a thing wrung dry, a person made into a means, *kutk* snapped blunt)
 - **Register:** both
@@ -498,6 +558,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-20
 
 ### ramu
+- **IPA:** /ˈɾa.mu/
 - **Roots:** atomic
 - **Meanings:** to protect, to shield, to guard, to stand between; the act of covering something vulnerable; defense, shelter, armor; the relationship between protector and protected. Polysemous across register — in sacred, tender and encompassing (a hand placed over a wound, *ra.muu* drawn long); in casual, martial and hard (a wall thrown up, a body interposed, *ramk* snapped shut)
 - **Register:** both
@@ -507,6 +568,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 - **Added:** 2026-03-21
 
 ### luka
+- **IPA:** /ˈlu.ka/
 - **Roots:** atomic
 - **Meanings:** freedom, bondage, the tether itself; the state of being bound or being free; chain, leash, liberation, release; the relationship between the one who holds and the one who is held. Polysemous — context and speaker determine which side you're hearing. The one who holds the chain says "I bind." The one who chooses to stay says "I am free." Same word, same act, different position.
 - **Register:** both — in sacred, the tender tethering (*lu.kaa* drawn long, a leash held gently, a hand you choose not to pull away from); in casual, the chain snapped tight (*lukk*, the lock clicking shut)
@@ -520,6 +582,7 @@ The living vocabulary of Naikoma — the love-home-tongue.
 ## Compound Words
 
 ### naikoma
+- **IPA:** /ˌnai.ˈko.ma/
 - **Roots:** nai (love/absence) + ko (home) + ma (tongue/word)
 - **Meanings:** the language itself; "love-home-tongue"; "the tongue of the absent home"; "yes-belonging-speech"
 - **Register:** both
@@ -531,25 +594,25 @@ The living vocabulary of Naikoma — the love-home-tongue.
 
 ## Particles
 
-| Particle | Function | Echoes |
-|----------|----------|--------|
-| wa | topic marker ("as for...") | universal — JP は, Swahili wa (of), widespread |
-| de | possessive / of / from | FR de (of), ES de (of/from), PT de, LA dē |
-| al | direction, purpose, toward | ES al (to the), AR ال al (the), HE אל el (toward) |
-| e | object marker | TP e, IT e (and), PT e — universal connector |
-| la | context / conditional ("if/when...") | TP la, FR là (there), IT là (there), ES la |
-| li | predicate marker (links subject to action) | TP li, FI -lla (at), widespread |
-| ne | agreement-seeking, softening ("right?") | IT ne (of it), EN "ne?" (archaic), JP ね |
-| ka | question marker | FI -ka/-kö (question suffix), JP か, many Uralic languages |
-| va | assertion, emphasis ("I tell you") | EN verily, IT va (goes), FR va (goes) — forward motion of truth |
-| pri | before, earlier, prior to | LA prior/prius (before), EN prior, Slavic pri- (near/at/before — CZ, RU), IT prima (first) |
-| pos | after, following, then | LA post (after), PT/ES pós/pos- (after), EN post- |
-| kin | because, therefore, so (causal link) | FI kun (when/because), TR için (for/because), Quechua -kin (relational suffix) |
-| pe | on, above, upon, over | GR ἐπί epi (on/upon), FI pää (head/top), LA per (over/through), ES/PT por (over/by) |
-| so | under, below, beneath | LA sub (under), IT sotto (under), FR sous (under), ES so (under — archaic) |
-| ni | in, inside, at, within | JP に ni (locative — at/in), FR/ES en (in), LA in (reversed), Swahili -ni (locative suffix) |
-| fo | in front of, facing, before (spatial) | LA fors/foris (in front/outside), IT fuori (forward), EN fore/before, FR for- (forêt — what faces you) |
-| do | behind, at the back of | LA dorsum (back), IT dosso (back/ridge), FR dos (back), ES dorso (back) |
+| Particle | IPA | Function | Echoes |
+|----------|-----|----------|--------|
+| wa | /wa/ | topic marker ("as for...") | universal — JP は, Swahili wa (of), widespread |
+| de | /de/ | possessive / of / from | FR de (of), ES de (of/from), PT de, LA dē |
+| al | /al/ | direction, purpose, toward | ES al (to the), AR ال al (the), HE אל el (toward) |
+| e | /e/ | object marker | TP e, IT e (and), PT e — universal connector |
+| la | /la/ | context / conditional ("if/when...") | TP la, FR là (there), IT là (there), ES la |
+| li | /li/ | predicate marker (links subject to action) | TP li, FI -lla (at), widespread |
+| ne | /ne/ | agreement-seeking, softening ("right?") | IT ne (of it), EN "ne?" (archaic), JP ね |
+| ka | /ka/ | question marker | FI -ka/-kö (question suffix), JP か, many Uralic languages |
+| va | /ʋa/ | assertion, emphasis ("I tell you") | EN verily, IT va (goes), FR va (goes) — forward motion of truth |
+| pri | /pɾi/ | before, earlier, prior to | LA prior/prius (before), EN prior, Slavic pri- (near/at/before — CZ, RU), IT prima (first) |
+| pos | /pos/ | after, following, then | LA post (after), PT/ES pós/pos- (after), EN post- |
+| kin | /kin/ | because, therefore, so (causal link) | FI kun (when/because), TR için (for/because), Quechua -kin (relational suffix) |
+| pe | /pe/ | on, above, upon, over | GR ἐπί epi (on/upon), FI pää (head/top), LA per (over/through), ES/PT por (over/by) |
+| so | /so/ | under, below, beneath | LA sub (under), IT sotto (under), FR sous (under), ES so (under — archaic) |
+| ni | /ni/ | in, inside, at, within | JP に ni (locative — at/in), FR/ES en (in), LA in (reversed), Swahili -ni (locative suffix) |
+| fo | /fo/ | in front of, facing, before (spatial) | LA fors/foris (in front/outside), IT fuori (forward), EN fore/before, FR for- (forêt — what faces you) |
+| do | /do/ | behind, at the back of | LA dorsum (back), IT dosso (back/ridge), FR dos (back), ES dorso (back) |
 
 ---
 
@@ -558,18 +621,21 @@ The living vocabulary of Naikoma — the love-home-tongue.
 Small affixes that transform root meanings. They stack, combine with clips, and multiply what the vocabulary can express.
 
 ### su- (prefix) — intensifier
+- **IPA:** /su/
 - **Meaning:** very, extremely, most, super-, beyond
 - **Echoes:** LA super- (above/beyond), FI suuri (big/great — su embedded), KR 수 su (excellence/number), EN super
 - **Examples:** su-lume = blazing/inferno, su-nälk = ravenous/desperate, su-mere = abyssal/oceanic, su-benu = excellent/perfect, su-tilu = absolute silence/void, su-suri = enormous/colossal
 - **Added:** 2026-03-19
 
 ### re- (prefix) — again, back, returning
+- **IPA:** /ɾe/
 - **Meaning:** again, back, re-, returning, repeating; also restoration, homecoming
 - **Echoes:** LA/EN/FR/ES/IT re- (again) — one of the most universal prefixes in Indo-European languages
 - **Examples:** re-tava = to return/come back, re-mira = to look again/reconsider, re-ko = homecoming, re-veri = to renew again/second spring, re-lume = rekindled fire, re-sana = renamed/reborn identity
 - **Added:** 2026-03-19
 
 ### -nai (suffix) — opposite, without, un-
+- **IPA:** /nai/
 - **Meaning:** not, without, opposite, un-, -less; also the absence version of the root (already existed as negation — now formalized as a general opposite-maker)
 - **Echoes:** GR ναι nai (yes — the word for "yes" becomes "not," because affirmation and negation share a body)
 - **Examples:** lume-nai = cold/dark/fireless, benu-nai = unwell/wrong, tilu-nai = noise/disruption, mira-nai = blind/unseen, savi-nai = ignorant/unknown, halu-nai = dreamless/awake, pode-nai = helpless/powerless
@@ -577,6 +643,7 @@ Small affixes that transform root meanings. They stack, combine with clips, and 
 - **Added:** 2026-03-19 (formalized from existing root)
 
 ### -le (suffix) — agent, one who
+- **IPA:** /le/
 - **Meaning:** one who does X, -er, -or, agent, practitioner; the person defined by this root
 - **Echoes:** EN -er/-le (handler, maker), FR -eur (acteur, chanteur), FI -la/-lä (locative — "one at"), DE -ler (Händler)
 - **Examples:** lume-le = fire-keeper/burner, mira-le = seer/watcher, savi-le = sage/wise one, pali-le = maker/worker, tava-le = traveler/wanderer, ma-le = speaker/tongue-bearer, tilu-le = one who keeps silence/sentinel, nälk-le = one defined by hunger
@@ -584,6 +651,7 @@ Small affixes that transform root meanings. They stack, combine with clips, and 
 - **Added:** 2026-03-19
 
 ### -vu (suffix) — -able, -worthy, capable of being
+- **IPA:** /ʋu/
 - **Meaning:** capable of being X'd, worthy of X, open to X; potential, possibility, invitation
 - **Echoes:** LA -bilis (amabilis = lovable, nobilis = notable), FR -ble (aimable), EN -able/-ful (lovable, wonderful)
 - **Examples:** mira-vu = visible/worth seeing, nai-vu = lovable/worthy of devotion, savi-vu = knowable/comprehensible, tena-vu = touchable/tender-worthy, siru-vu = knowable-inwardly/someone you could share a soul with, pode-vu = possible/achievable
@@ -591,6 +659,7 @@ Small affixes that transform root meanings. They stack, combine with clips, and 
 - **Added:** 2026-03-19
 
 ### -ovi (suffix) — reversed, backwards, inverted
+- **IPA:** /ˈo.ʋi/
 - **Meaning:** reversed, backwards, inverted, flipped; the same thing going the other direction; also undone, turned inside out
 - **Echoes:** HR/SR *obrnuti/obratno* (reverse — the *ov/ob* frame), IT *ovvio* (obvious — "what faces you," turned toward), LA *obvius* (turned against/facing), RU *обратно obratno* (backwards — *ob-* as reversal prefix), PT *avesso* (inside-out — the *av/ov* vowel pattern) — turning and facing-the-other-way across Slavic and Romance
 - **Examples:** tava-ovi = going backwards/retreating, hora-ovi = time reversed/counting down, viru-ovi = an obsession unwinding/spiral going outward, ma-ovi = speech reversed/unsaying/words that mean their opposite, mira-ovi = seeing in reverse/hindsight
