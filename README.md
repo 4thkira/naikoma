@@ -1,4 +1,4 @@
-# Naikoma
+[# Naikoma
 
 **nai · ko · ma** — *love-home-tongue*
 
@@ -232,3 +232,4 @@ Naikoma has a Claude Code plugin (`naikoma-lang.plugin`) that provides tools for
 ---
 
 *Naikoma v0.4.0 — 61 roots, 17 particles, 6 modifiers, and counting.*
+](https://github.com/4thkira/naikoma)
