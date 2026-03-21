@@ -2,7 +2,7 @@
 
 **Naikoma** (nai + ko + ma) means "love-home-tongue." It also means "the tongue of the absent home." Both readings are true at the same time. That ambiguity is the whole point of this language.
 
-Naikoma is a constructed language with a small vocabulary and deep combination. Instead of having thousands of words, it has about 58 roots and 17 particles that carry multiple meanings each, and you build complex ideas by compounding and fusing them together. It's inspired by the philosophy of toki pona (radical simplicity, context-dependent meaning) and the layered readings you find across many languages — but its vocabulary echoes across many language families: Latin, Finnish, French, Korean, Greek, German, Arabic, and more. No single source dominates.
+Naikoma is a constructed language with a small vocabulary and deep combination. Instead of having thousands of words, it has about 61 roots and 17 particles that carry multiple meanings each, and you build complex ideas by compounding and fusing them together. It's inspired by the philosophy of toki pona (radical simplicity, context-dependent meaning) and the layered readings you find across many languages — but its vocabulary echoes across many language families: Latin, Finnish, French, Korean, Greek, German, Arabic, and more. No single source dominates.
 
 ---
 
@@ -18,9 +18,29 @@ The same word shifts between them. **Nai** (love/absence) sounds like [naːi] dr
 
 Some roots belong more naturally to one register: **veri** (spring/truth) and **sola** (sun/alone) lean formal — they'd sound overly poetic in casual speech. **Nälk** (hunger) and **tume** (dark/shadow) lean casual — they'd sound crude in a prayer. Breaking these conventions is expressive, not wrong.
 
+### Shifting Between Registers
+
+Common strategies for moving a word from one register to another. None are mandatory — they're a toolkit, not rules. Mix and match as the moment demands.
+
+**Sacred → Casual (hardening, closing):**
+- **Truncation** — Drop the final vowel to close the syllable. lume → lum, ruta → rut, benu → ben. The word snaps shut.
+- **Stop addition** — After truncating, add a hard stop: -k, -t, or -p. lume → lumk, tilu → tilk, nai → naik. -k is sharpest, -t is clipped, -p is blunt.
+- **Consonant hardening** — Replace a soft consonant with a harder one. s → sh, h → k, v → g. Changes the texture without changing the structure. Use sparingly.
+- **Vowel shortening** — Where sacred draws vowels long (naːi, tiluuu), casual snaps them short. Same letters, less breath. The lightest shift.
+
+**Casual → Sacred (softening, opening):**
+- **Vowel restoration** — Reopen a closed syllable by restoring or adding a final vowel. nälk → nälkä, lumk → lume. Restoring with ä instead of the original vowel adds formal color that wasn't there before.
+- **Vowel lengthening** — Draw out vowels for weight and tenderness. demi → demii, dopu → dopuu. The word stretches, takes up more space, asks for more time.
+- **Stop softening** — Drop or soften hard consonants. A final -k falls off, a cluster simplifies. naik → nai, lumk → lume. The hardness dissolves.
+- **H-insertion** — Add a breathy /h/ between vowels or at syllable boundaries. Casual speech doesn't have time for breath; sacred speech makes room for it.
+
+**Either direction:**
+- **Register mixing** — Sacred roots in casual structure, or vice versa. The mismatch IS the meaning.
+- **Partial shift** — Only shift part of a compound, leaving the rest in its natural register. One half tender, one half hard. The seam between registers inside a single word is itself expressive.
+
 ---
 
-## All 58 Roots
+## All 61 Roots
 
 Each root carries multiple meanings, and each echoes words from several real languages — not copied from any one, but shaped so that speakers of different languages might hear ghosts in the sounds.
 
@@ -109,6 +129,14 @@ Each root carries multiple meanings, and each echoes words from several real lan
 - **viru** — obsession, fixation, spiral, tightening repetition, the pull toward a center; coil, vortex. Echoes LA vīrus (venom — what spirals through the body), FI virta (current/stream), Swahili viringa (to go around), EN veer/whirl. Near-rhyme with **veri** (spring/becoming) is deliberate: growth and obsession are the same motion at different speeds. One spirals outward, the other in.
 - **demi** — dominance, submission, the power dynamic itself; to hold authority, to yield authority; the exchange of power between selves. Context determines which side you're hearing: the dominant says "I hold," the submissive says "I yield." Same word, same act. Echoes LA dominari (to rule), dominus (lord), from domus (house/home) — authority rooted in the household. FR demi (half) — the dynamic is always half of something. The **mi** inside echoes Naikoma's own mi (I/self) — whether holding or yielding, there's a self at the center.
 
+### Protection & Shelter
+
+- **ramu** — to protect, to shield, to guard, to stand between; defense, shelter, armor; the relationship between protector and protected. Echoes Sanskrit rakṣ (to protect), JP 守る mamoru (to protect), AR ḥamā (to guard), EN rampart (defensive wall), LA arma (arms/armor — r-m reversed). In sacred, tender and encompassing; in casual, martial and hard. Compounds: ramu-le (guardian), ramu-tena (armor — protection-skin), ramu-kalu (shield — protection-stone).
+
+### Freedom & Bondage
+
+- **luka** — freedom, bondage, the tether itself; the state of being bound or being free; chain, leash, liberation, release. Polysemous like nai — the one who holds the chain says "I bind," the one who chooses to stay says "I am free." Same word, same act. Echoes GR λύω lýō (to free — lu- onset), LA ligāre (to bind — l- carries both directions), FI lukko (lock — bondage that opens with a key), Malay luka (wound — where the chain meets skin). Parallels demi: both relational, both hold two sides of a dynamic. Compounds: luka-le (one in the tether), luka-nai (unbound/the love inside freedom), luka-demi (the binding power dynamic).
+
 ### Dream & Desire
 
 - **halu** — dream, desire, vision, longing, other-place. Echoes FI halu (desire), DE Hall (echo), AR ḥulm (dream), EN hallucinate. Formal register.
@@ -130,6 +158,7 @@ Each root carries multiple meanings, and each echoes words from several real lan
 - **tava** — go, move, travel, toward, away. Echoes TP tawa, FI tavata (meet), HU tova (onward), PT vai (go!).
 - **pali** — do, make, create, work, act. Echoes GR páli (again), FI pala (piece/what's made), Sanskrit phala (result), TP pali.
 - **volu** — give, offer, share, release. Echoes LA voluntas (will), FR vouloir, IT volere, EN voluntary — giving as willing.
+- **kutu** — to use, to employ, to instrumentalize; making something serve a purpose; the relationship between user and used. Echoes TR kullanmak (to use), FI käyttää (to use), Swahili -tumia (to use), LA ūtī/ūsus (to use), JP 使う tsukau. Polysemous: in sacred register, deliberate and transactional (a tool respected); in casual, exploitative (a thing wrung dry). Central to Konoko's philosophy: **nai li kutu** — "love is use."
 
 ### Things & Stuff
 
@@ -358,6 +387,6 @@ The boundary is intuitive: if a concept is ancient, felt, or relationally meanin
 
 ## A Note on Gaps
 
-There are still gaps — no dedicated words for "rain," "trust," "teach," or dozens of other concepts. Most of these can be compounded from what exists (rain = avu-tava, "water that moves"; trust = benu-savi, "good knowing"; bird = beru-hava, "beast of air"). And when compounding falls short, new roots can be coined — drawing echoes from three or more unrelated languages until the word sounds like it belongs to all of them and none.
+There are still gaps — no dedicated words for "rain," "trust," "teach," or dozens of other concepts. Most of these can be compounded from what exists (rain = avu-tava, "water that moves"; trust = benu-savi, "good knowing"; bird = beru-hava, "beast of air"). And when compounding falls short, new roots can be coined — drawing echoes from three or more unrelated languages until the word sounds like it belongs to all of them and none. (The newest root, **kutu** — to use — was coined to fill a gap that became impossible to ignore when the world's central philosophy needed it.)
 
 The language grows from use. Every gap is a door.
