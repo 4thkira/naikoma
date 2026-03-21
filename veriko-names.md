@@ -67,6 +67,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Vergil → Konoko
 
 **Full Name:** kutu Konoko mutamano ani-veri
+**IPA:** /ˈku.tu ˈko.no.ko mu.ta.ˈma.no ˌa.ni.ˈʋe.ɾi/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -90,6 +91,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Spierce → Spira
 
 **Full Name:** sola Spira
+**IPA:** /ˈso.la ˈspi.ɾa/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -114,6 +116,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Dito → Denälk
 
 **Full Name:** vena Denälk
+**IPA:** /ˈʋe.na de.ˈnælk/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -133,6 +136,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Shizuka Kanai → Venuan
 
 **Full Name:** mano Venuan tuveselu tenai
+**IPA:** /ˈma.no ˈʋe.nu.an ˌtu.ʋe.ˈse.lu te.ˈnai/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -154,6 +158,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Scar / Charlie → Sehalni
 
 **Full Name:** tume Sehalni
+**IPA:** /ˈtu.me ˈse.hal.ni/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -174,6 +179,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Ava Rinks → Tava
 
 **Full Name:** tava Novi
+**IPA:** /ˈta.ʋa ˈno.ʋi/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -193,6 +199,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### jan Ipala → Misita
 
 **Full Name:** tume Misita
+**IPA:** /ˈtu.me ˈmi.si.ta/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -212,6 +219,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Yomiel → Re-valo
 
 **Full Name:** valo-nai Re-valo
+**IPA:** /ˌʋa.lo.ˈnai ˌɾe.ˈʋa.lo/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -232,6 +240,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Yuma Kisaragi → Vanail
 
 **Full Name:** belu Vanail
+**IPA:** /ˈbe.lu ˈʋa.nail/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -253,6 +262,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Lilia Vanrouge → Beseni
 
 **Full Name:** savi-nai Beseni okvehan
+**IPA:** /ˌsa.ʋi.ˈnai ˈbe.se.ni ok.ʋe.ˈhan/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -275,9 +285,9 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 *Dialovers cluster. Bloodied Tongues.*
 
-**Affiliation name: viru-ovi** — "obsession-reversed" / "the spiral unwinding." A structural mirror of 逆巻 (Sakamaki), which literally means "reverse spiral" / "winding backwards." The Japanese name and the Naikoma name say the same thing through completely different phonetic and semantic systems — the kind of cross-linguistic echo the whole language is built on.
+**Affiliation name: viru-ovi** /ˌʋi.ɾu.ˈo.ʋi/ — "obsession-reversed" / "the spiral unwinding." A structural mirror of 逆巻 (Sakamaki), which literally means "reverse spiral" / "winding backwards." The Japanese name and the Naikoma name say the same thing through completely different phonetic and semantic systems — the kind of cross-linguistic echo the whole language is built on.
 
-**Shared secret: minone** — mi + novi + ne — "we're changing, right?" / "I'm becoming different, aren't I?" The *ne* makes it a question, not a statement — tentative, seeking agreement. For a group defined by cyclical damage, the secret name is a question about whether cycles can break.
+**Shared secret: minone** /ˈmi.no.ne/ — mi + novi + ne — "we're changing, right?" / "I'm becoming different, aren't I?" The *ne* makes it a question, not a statement — tentative, seeking agreement. For a group defined by cyclical damage, the secret name is a question about whether cycles can break.
 
 **Design thread:** All three brothers carry **malu** (bad/wrong/broken) somewhere in their personal name. The wrongness is the family inheritance.
 
@@ -286,6 +296,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Shu Sakamaki → Timalu
 
 **Full Name:** nälk Timalu viru-ovi minone
+**IPA:** /nælk ˈti.ma.lu ˌʋi.ɾu.ˈo.ʋi ˈmi.no.ne/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -308,6 +319,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Reiji Sakamaki → Velueva
 
 **Full Name:** nälk Velueva viru-ovi minone
+**IPA:** /nælk ˈʋe.lu.e.ʋa ˌʋi.ɾu.ˈo.ʋi ˈmi.no.ne/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -330,6 +342,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Laito Sakamaki → Sirlu
 
 **Full Name:** nälk Sirlu viru-ovi minone
+**IPA:** /nælk ˈsiɾ.lu ˌʋi.ɾu.ˈo.ʋi ˈmi.no.ne/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -352,13 +365,14 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 *The core of Initiova. A New World of Love.*
 
-**Affiliation name: kin** — the Naikoma rendering of Ren (練). As a Naikoma particle, kin means "because / therefore" — the clan whose identity is a *cause*, a reason. They exist because of something. In Hakuryuu's name, the sentence finishes (kin rekalu — "because revenge"). In Kouha's, it hangs open (kin — "because—"). In Morgiana's, it's absent entirely — she carries her own people's name instead.
+**Affiliation name: kin** /kin/ — the Naikoma rendering of Ren (練). As a Naikoma particle, kin means "because / therefore" — the clan whose identity is a *cause*, a reason. They exist because of something. In Hakuryuu's name, the sentence finishes (kin rekalu — "because revenge"). In Kouha's, it hangs open (kin — "because—"). In Morgiana's, it's absent entirely — she carries her own people's name instead.
 
 ---
 
 ### Judal → Tumal
 
 **Full Name:** Tumal
+**IPA:** /tu.ˈmal/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -381,6 +395,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Hakuryuu Ren → Okalberu
 
 **Full Name:** posdemi Okalberu kin rekalu
+**IPA:** /pos.ˈde.mi ˈo.kal.be.ɾu kin ɾe.ˈka.lu/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -404,6 +419,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Kouha Ren → Okvedel
 
 **Full Name:** posdemi Okvedel kin
+**IPA:** /pos.ˈde.mi ˈok.ʋe.del kin/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -426,6 +442,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Morgiana Saluja → Limehana
 
 **Full Name:** sodemi-nai Limehana okvedeberu
+**IPA:** /ˌso.de.mi.ˈnai ˈli.me.ha.na ok.ʋe.de.ˈbe.ɾu/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -453,6 +470,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Gonzo Smith → Okuhahana
 
 **Full Name:** resura Okuhahana okulumori ani-nai
+**IPA:** /ɾe.ˈsu.ɾa ˈo.ku.ha.ha.na o.ku.lu.ˈmo.ɾi ˌa.ni.ˈnai/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -475,6 +493,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Varia Lazuli → Veriva
 
 **Full Name:** kadele Veriva okmekalu
+**IPA:** /ˈka.de.le ˈʋe.ɾi.ʋa ok.me.ˈka.lu/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -497,6 +516,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Yi Sang → Benari
 
 **Full Name:** savile Benari
+**IPA:** /ˈsa.ʋi.le ˈbe.na.ɾi/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -519,6 +539,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Franz Kromer → Komira
 
 **Full Name:** dopsavle Komira naiani
+**IPA:** /ˈdop.saʋ.le ˈko.mi.ɾa nai.ˈa.ni/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -546,6 +567,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Kaito Momota → Solanai
 
 **Full Name:** su-podele Solanai mutahana savi-vu
+**IPA:** /ˌsu.po.ˈde.le ˌso.la.ˈnai mu.ta.ˈha.na ˈsa.ʋi.ʋu/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -568,6 +590,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Kaede Akamatsu → Komale
 
 **Full Name:** su-podele Komale okvehana kinale
+**IPA:** /ˌsu.po.ˈde.le ˈko.ma.le ok.ʋe.ˈha.na ki.ˈna.le/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -591,6 +614,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Hajime Hinata → Doveri
 
 **Full Name:** su-su-podele Doveri alume ko-ka
+**IPA:** /ˌsu.su.po.ˈde.le ˈdo.ʋe.ɾi a.ˈlu.me ˈko.ka/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -614,6 +638,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Byakuya Togami → Okaletu
 
 **Full Name:** su-podele-nai Okaletu mudeani kasu
+**IPA:** /ˌsu.po.de.le.ˈnai ˈo.ka.le.tu mu.de.ˈa.ni ˈka.su/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -642,6 +667,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Sixtine Soleil → Sitesura
 
 **Full Name:** pali-ani Sitesura solume dopale-nai
+**IPA:** /ˌpa.li.ˈa.ni ˈsi.te.su.ɾa so.ˈlu.me ˌdo.pa.le.ˈnai/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -665,6 +691,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Maguro "Orange" Mikejima → Oklu
 
 **Full Name:** oklubele Oklu mukuberu
+**IPA:** /ok.lu.ˈbe.le ˈok.lu mu.ku.ˈbe.ɾu/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -677,7 +704,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 **Source notes:** Enstars OC. Ryusei Orange. Will bite you if you're mean. Protective of sister and friends. Fire and rebellion.
 
-**Birth name:** sumeberu — (su)ri.(me)re.(beru) — big.sea.animal — "big fish" / tuna / Maguro. Her given name rendered in Naikoma. Oklu is the name she chose for herself — the color she fights under, not the name she was born with.
+**Birth name:** sumeberu /ˈsu.me.be.ɾu/ — (su)ri.(me)re.(beru) — big.sea.animal — "big fish" / tuna / Maguro. Her given name rendered in Naikoma. Oklu is the name she chose for herself — the color she fights under, not the name she was born with.
 
 **Notes:**
 - The Role (five roots, dense, declarative) contrasted with the Personal Name (two clips, simple, just a color) does character work — the loudest part is what she'll *do to you*, the quietest part is who she is.
@@ -689,6 +716,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Yūho Sujaku → Benut
 
 **Full Name:** sarule Benut re-behava
+**IPA:** /ˈsa.ɾu.le ˈbe.nut ɾe.be.ˈha.ʋa/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -712,6 +740,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Koume Oukawa → Kobenu
 
 **Full Name:** varule Kobenu mutamano voleruma
+**IPA:** /ˈʋa.ɾu.le ˈko.be.nu mu.ta.ˈma.no ʋo.le.ˈɾu.ma/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -736,6 +765,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Yua Shinkai → Halme
 
 **Full Name:** mebedemi Halme sirme wan-dopu-mere-beru e pri-so so-mere
+**IPA:** /me.be.ˈde.mi ˈhal.me ˈsiɾ.me wan.ˈdo.pu.ˌme.ɾe.ˈbe.ɾu e ˈpɾi.so so.ˈme.ɾe/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -764,6 +794,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Spierce Demian → Spira
 
 **Full Name:** demile Spira
+**IPA:** /ˈde.mi.le ˈspi.ɾa/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -787,6 +818,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### The Eye (Spierce Yagami) → Mira
 
 **Full Name:** vavukapu-le Mira tudemi
+**IPA:** /ʋa.ʋu.ˈka.pu.le ˈmi.ɾa tu.ˈde.mi/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -810,6 +842,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Ausma Prochainezo → Vesola
 
 **Full Name:** wan-spira Vesola kutukalu
+**IPA:** /ˌwan.ˈspi.ɾa ˈʋe.so.la ku.tu.ˈka.lu/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -837,6 +870,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Travis Touchdown → Teruvik
 
 **Full Name:** belt-muta-naik Teruvik mansot
+**IPA:** /ˌbelt.mu.ta.ˈnaik ˈte.ɾu.ʋik ˈman.sot/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -861,6 +895,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Kylar Schwarz → Nairu
 
 **Full Name:** savi-veri Nairu okunai nairu
+**IPA:** /ˌsa.ʋi.ˈʋe.ɾi ˈnai.ɾu ˌo.ku.ˈnai ˈnai.ɾu/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -885,6 +920,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 ### Kikkou Sadamune → Rameru
 
 **Full Name:** vakukale Rameru benuvena lukademiva
+**IPA:** /ʋa.ku.ˈka.le ˈɾa.me.ɾu be.nu.ˈʋe.na lu.ka.de.ˈmi.ʋa/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
@@ -950,17 +986,17 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 ## Affiliation Names — Cluster Index
 
-| Cluster | Affiliation Name | Roots | Technique | Reading |
-|---------|-----------------|-------|-----------|---------|
-| Mutamano (syndicate) | mutamano | muta + mano | direct compound | "Many hands" |
-| Spice Rack | *[TBD]* | | | |
-| The Crypt | viru-ovi | viru + ovi | compound (modifier) | "Reverse spiral" / 逆巻 (Sakamaki) |
-| Veretis Magicae | kin | particle (Ren) | none | "Because" / the clan whose name is a cause |
-| Corp/Book/Bus | *[TBD]* | | | |
-| The Half Moon | *[TBD]* | | | |
-| Cantus Astra | *[TBD]* | | | |
-| Mirror Wall | *[TBD]* | | | |
-| Cordolia | *[TBD]* | | | |
+| Cluster | Affiliation Name | IPA | Roots | Technique | Reading |
+|---------|-----------------|-----|-------|-----------|---------|
+| Mutamano (syndicate) | mutamano | /mu.ta.ˈma.no/ | muta + mano | direct compound | "Many hands" |
+| Spice Rack | *[TBD]* | | | | |
+| The Crypt | viru-ovi | /ˌʋi.ɾu.ˈo.ʋi/ | viru + ovi | compound (modifier) | "Reverse spiral" / 逆巻 (Sakamaki) |
+| Veretis Magicae | kin | /kin/ | particle (Ren) | none | "Because" / the clan whose name is a cause |
+| Corp/Book/Bus | *[TBD]* | | | | |
+| The Half Moon | *[TBD]* | | | | |
+| Cantus Astra | *[TBD]* | | | | |
+| Mirror Wall | *[TBD]* | | | | |
+| Cordolia | *[TBD]* | | | | |
 
 ---
 
