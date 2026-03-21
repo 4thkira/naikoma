@@ -121,7 +121,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
 | Role | vena | atomic | intentional substitution | "Blood, body, vital force, flow." Not a person — a raw physical substance. Blood doesn't decide where it goes; it flows wherever the body takes it. Fits someone who followed Spierce from one world to the next without much reason beyond being there. |
-| Personal | Denälk | de + nälk | particle + root | "Of hunger" / "belonging to want." Using a particle (de) inside a name is syntactically unusual — it makes the name read like a sentence fragment that never finishes. "Belonging to hunger..." what? He's a clause without resolution. Hunger owns him; he doesn't own it. |
+| Personal | Denälk | (de.nälk) | particle + root | "Of hunger" / "belonging to want." Using a particle (de) inside a name is syntactically unusual — it makes the name read like a sentence fragment that never finishes. "Belonging to hunger..." what? He's a clause without resolution. Hunger owns him; he doesn't own it. |
 | Affiliation | — | | | None. |
 | Secret | — | | | None. |
 
@@ -141,9 +141,9 @@ Some clusters have shared construction rules that carry thematic meaning:
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
 | Role | mano | atomic | intentional substitution | "Hand, touch, hold, do-by-hand." Not a person — a hand. The instrument that heals and poisons. Hands suture; hands also hold people down. The Role doesn't say what kind of hand. |
-| Personal | Venuan | ven(a) + (be)nu + an(i) | overlap blend (shared /n/) | vena clips to "ven", benu tail-clips to "nu" (last syllable), and the shared /n/ at the boundary overlaps — ven + nu → venu. Then ani clips to "an" (dropping final -i closes the syllable, shifting toward casual register). Result: **venuan**. "Blood-good-person" / "the one who makes the body well." The closed "an" instead of open "ani" means the person at the end of this name isn't soft — he's shut. |
-| Affiliation | tuveselu | tu(me) + ve(na) + selu | clip chain | "The dark blood in the earth" / "shadow-blood-ground." A soldier's name for what a battlefield becomes — blood soaked into the foundation. The "ve" clip is ambiguous: outsiders may misread it as *veri* (becoming), hearing "shadow-becoming-earth" — something abstract and poetic. Insiders know it's *vena* (blood). The name lies to strangers by sounding prettier than it is. |
-| Secret | tenai | tena + nai | blend | "Skin-love" / "tenderness-absence" / "the love inside touch" or "the ache of skin never held." A doctor who touches to heal, whose secret is either that he does it out of love, or that he aches for the tenderness he can't receive. |
+| Personal | Venuan | ven(a).(be)nu.an(i) | overlap blend (shared /n/) | vena clips to "ven", benu tail-clips to "nu" (last syllable), and the shared /n/ at the boundary overlaps — ven + nu → venu. Then ani clips to "an" (dropping final -i closes the syllable, shifting toward casual register). Result: **venuan**. "Blood-good-person" / "the one who makes the body well." The closed "an" instead of open "ani" means the person at the end of this name isn't soft — he's shut. |
+| Affiliation | tuveselu | tu(me).ve(na).selu | clip chain | "The dark blood in the earth" / "shadow-blood-ground." A soldier's name for what a battlefield becomes — blood soaked into the foundation. The "ve" clip is ambiguous: outsiders may misread it as *veri* (becoming), hearing "shadow-becoming-earth" — something abstract and poetic. Insiders know it's *vena* (blood). The name lies to strangers by sounding prettier than it is. |
+| Secret | tenai | (ten)a.(nai) | blend | "Skin-love" / "tenderness-absence" / "the love inside touch" or "the ache of skin never held." A doctor who touches to heal, whose secret is either that he does it out of love, or that he aches for the tenderness he can't receive. |
 
 **Full reading:** "A hand — the person of good blood — belonging to the dark bloody ground — whose secret is the love inside tenderness."
 
@@ -163,7 +163,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
 | Role | tume | atomic | none | "Dark, shadow, hidden." Where Spira declares herself a solitary light, he declares himself the shadow. Tume's casual-register lean makes the Role feel raw and honest rather than dramatic — not performing darkness, just *being* it. |
-| Personal | Sehalni | sem(u) + hal(u) + ani | clip chain | "The togetherness-dream of a person." Semu's polysemy (together AND apart) makes this unresolvable: he dreams of being with Spierce and being his own self, simultaneously. And *ani* (person) as the fusion's head quietly insists he's still someone — after a Role that calls him a shadow, the personal name argues back. The name argues with itself. |
+| Personal | Sehalni | (se)mu.(hal)u.a(ni) | clip chain | "The togetherness-dream of a person." Semu's polysemy (together AND apart) makes this unresolvable: he dreams of being with Spierce and being his own self, simultaneously. And *ani* (person) as the fusion's head quietly insists he's still someone — after a Role that calls him a shadow, the personal name argues back. The name argues with itself. |
 | Affiliation | — | | | None. Same open structure as Spira — the Spierce-adjacent names don't armor themselves. |
 | Secret | — | | | None. |
 
@@ -204,7 +204,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
 | Role | tume | atomic | none | "Dark, shadow, hidden." The polymorph who takes on other people's appearances declares himself a shadow — not the person you see, but the darkness wearing someone else's face. |
-| Personal | Misita | mi + si + ta | direct stack | "I, you, they." Every pronoun in one name. No clipping needed — all three roots are already monosyllabic, so they just stack. The most transparent fusion possible, but the meaning does the heavy lifting: he contains all positions of address. He is everyone. |
+| Personal | Misita | (mi.si.ta) | direct stack | "I, you, they." Every pronoun in one name. No clipping needed — all three roots are already monosyllabic, so they just stack. The most transparent fusion possible, but the meaning does the heavy lifting: he contains all positions of address. He is everyone. |
 | Affiliation | — | | | None. |
 | Secret | — | | | None. He *is* hiding — the concealment is the surface, not the secret. |
 
@@ -223,8 +223,8 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | valo-nai | valo + nai | compound (modifier) | "Life-without" / "the unliving" / "life-absence." A specter. But nai's polysemy means it also reads as "life's love" — the unliving who still loves being alive. A ghost who didn't want to go. |
-| Personal | Re-valo | re- + valo | prefix + root | "Life again" / "returning to living." The re- modifier doing exactly what it was built for. He died. He came back. |
+| Role | valo-nai | (valo.nai) | compound (modifier) | "Life-without" / "the unliving" / "life-absence." A specter. But nai's polysemy means it also reads as "life's love" — the unliving who still loves being alive. A ghost who didn't want to go. |
+| Personal | Re-valo | (re.valo) | prefix + root | "Life again" / "returning to living." The re- modifier doing exactly what it was built for. He died. He came back. |
 | Affiliation | — | | | None. |
 | Secret | — | | | None. |
 
@@ -244,8 +244,8 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | belu | be(ru) + lu(me) | clip chain | "Fire beast" / "beast of flame" — dragon. The role declares what he became, not what he was born as. He became a dragon to kill dragons. The role and the personal name are in permanent contradiction: the dragon whose purpose is to end dragons. |
-| Personal | Vanail | va(lo) + nai + -l(e) | clip + root + truncated suffix | "Life-absence-agent" / "one who deals death." The -le suffix drops its vowel to bare -l, closing the syllable and pushing hard into casual register. This isn't "one who gently releases life" — it's *killer*, blunt and consonant-final. And **nai** sits at the center, carrying both "absence" (what he deals) and "love" (what he denied himself). His whole arc lives in that unresolved polysemy: the death-dealer who was surrounded by love the entire time and only saw it at the end. |
+| Role | belu | (be)ru.(lu)me | clip chain | "Fire beast" / "beast of flame" — dragon. The role declares what he became, not what he was born as. He became a dragon to kill dragons. The role and the personal name are in permanent contradiction: the dragon whose purpose is to end dragons. |
+| Personal | Vanail | (va)lo.(nai).(l)e | clip + root + truncated suffix | "Life-absence-agent" / "one who deals death." The -le suffix drops its vowel to bare -l, closing the syllable and pushing hard into casual register. This isn't "one who gently releases life" — it's *killer*, blunt and consonant-final. And **nai** sits at the center, carrying both "absence" (what he deals) and "love" (what he denied himself). His whole arc lives in that unresolved polysemy: the death-dealer who was surrounded by love the entire time and only saw it at the end. |
 | Affiliation | — | | | None. |
 | Secret | — | | | None. |
 
@@ -266,9 +266,9 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | savi-nai | savi + nai | compound (modifier) | "Unknowing" / "without wisdom" / "wisdom's absence." The celebrity with amnesia — he doesn't know who he is. But nai's polysemy makes this also "wisdom's love": the not-knowing isn't empty, it's tender. He grieves the self he can't remember, and that grief is a kind of devotion to whoever he was. |
-| Personal | Beseni | be(ru) + selu-ani | clip + compound (parent) | "Beast-parent" / "the animal who is a father." **selu-ani** is the compound for parent (foundation-person, the ground something grows from), and **be(ru)** prefixes it with beast — the wild, ancient, not-quite-human thing that chose to be someone's earth. The name could call him warrior, sage, fae — instead it says *creature who is a father*. The beast comes first because that's what he is; the parent is where the name lands. |
-| Affiliation | okvehan | ok(u) + ve(na) + han(a) | clip chain (hard casual) | "Blood-bloom-color" / "living red." The affiliation is a color — not a creed, not a manifesto, but a shade. Heraldic. Everyone in this circle is bound by the red of things that grow and bleed. The hard casual register (han instead of hana, closed syllable) is how Lilia says it — the old soldier who's become lax, who doesn't bother keeping the vowels open anymore. Echoes "Vanrouge" (red) rebuilt in Naikoma's logic. |
+| Role | savi-nai | (savi.nai) | compound (modifier) | "Unknowing" / "without wisdom" / "wisdom's absence." The celebrity with amnesia — he doesn't know who he is. But nai's polysemy makes this also "wisdom's love": the not-knowing isn't empty, it's tender. He grieves the self he can't remember, and that grief is a kind of devotion to whoever he was. |
+| Personal | Beseni | (be)ru.(se)lu.a(ni) | clip + compound (parent) | "Beast-parent" / "the animal who is a father." **selu-ani** is the compound for parent (foundation-person, the ground something grows from), and **be(ru)** prefixes it with beast — the wild, ancient, not-quite-human thing that chose to be someone's earth. The name could call him warrior, sage, fae — instead it says *creature who is a father*. The beast comes first because that's what he is; the parent is where the name lands. |
+| Affiliation | okvehan | (ok)u.(ve)na.(han)a | clip chain (hard casual) | "Blood-bloom-color" / "living red." The affiliation is a color — not a creed, not a manifesto, but a shade. Heraldic. Everyone in this circle is bound by the red of things that grow and bleed. The hard casual register (han instead of hana, closed syllable) is how Lilia says it — the old soldier who's become lax, who doesn't bother keeping the vowels open anymore. Echoes "Vanrouge" (red) rebuilt in Naikoma's logic. |
 | Secret | — | | | None. He can't remember enough to have one. |
 
 **Full reading:** "The unknowing; beast-father; belonging to the living red." An amnesiac ancient who names himself by what he can still feel: that he is a creature, that he is a parent, and the color of his house.
@@ -301,9 +301,9 @@ Some clusters have shared construction rules that carry thematic meaning:
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
 | Role | nälk | atomic | none | "Hunger, wanting, raw need." One syllable, shared across all three brothers. They are hunger — what they're each hungry *for* is what the personal name differentiates. |
-| Personal | Timalu | ti(lu) + ru**ma**(lu) | overlap blend (shared *ma*) | "Bad rest" / "wrong silence" / "broken ending." tilu-ruma would just be "sleep" — a neutral compound. It's the malu that poisons it. His sleep isn't peace, it's a symptom. The overlap blend at *ma* lets ruma's tail become malu's head, carrying both roots in full while sounding like only two. |
-| Affiliation | viru-ovi | viru + ovi | compound (modifier) | "Reverse spiral" / 逆巻 |
-| Secret | minone | mi + novi + ne | direct stack | "We're changing, right?" |
+| Personal | Timalu | (ti)lu.ru(ma).(malu) | overlap blend (shared *ma*) | "Bad rest" / "wrong silence" / "broken ending." tilu-ruma would just be "sleep" — a neutral compound. It's the malu that poisons it. His sleep isn't peace, it's a symptom. The overlap blend at *ma* lets ruma's tail become malu's head, carrying both roots in full while sounding like only two. |
+| Affiliation | viru-ovi | (viru.ovi) | compound (modifier) | "Reverse spiral" / 逆巻 |
+| Secret | minone | (mi).(no)vi.(ne) | direct stack | "We're changing, right?" |
 
 **Full reading:** "Hunger; broken rest; belonging to the reverse spiral; we're changing, right?"
 
@@ -324,9 +324,9 @@ Some clusters have shared construction rules that carry thematic meaning:
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
 | Role | nälk | atomic | none | "Hunger, wanting, raw need." Shared role across all three brothers. |
-| Personal | Velueva | ve(na) + (ma)lu + le + va | clip chain with particle | "Poison-agent, I tell you." The name starts with blood (vena → ve), runs through wrongness (malu → lu), names the doer (-le → e, absorbed), and ends with the assertion particle *va* baked directly into the name. He doesn't just demand — demanding is who he IS. The name literally ends with "I tell you." |
-| Affiliation | viru-ovi | viru + ovi | compound (modifier) | "Reverse spiral" / 逆巻 |
-| Secret | minone | mi + novi + ne | direct stack | "We're changing, right?" |
+| Personal | Velueva | (ve)na.ma(lu).l(e).(va) | clip chain with particle | "Poison-agent, I tell you." The name starts with blood (vena → ve), runs through wrongness (malu → lu), names the doer (-le → e, absorbed), and ends with the assertion particle *va* baked directly into the name. He doesn't just demand — demanding is who he IS. The name literally ends with "I tell you." |
+| Affiliation | viru-ovi | (viru.ovi) | compound (modifier) | "Reverse spiral" / 逆巻 |
+| Secret | minone | (mi).(no)vi.(ne) | direct stack | "We're changing, right?" |
 
 **Full reading:** "Hunger; the poison-agent who declares; belonging to the reverse spiral; we're changing, right?"
 
@@ -347,9 +347,9 @@ Some clusters have shared construction rules that carry thematic meaning:
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
 | Role | nälk | atomic | none | "Hunger, wanting, raw need." Shared role across all three brothers. |
-| Personal | Sirlu | sir(u) + (ma)lu | clip chain | "Terrible knowing" / "a wrong kind of intimacy." **siru** — the root for inner knowing, soul-intimacy, the thread between minds — turned sinister through malu. The "knowing" Laito trades in isn't shared; it's extracted. He drags out desires people want to keep hidden. The root that means "a piece of yourself given to another" becomes something *taken* without asking. |
-| Affiliation | viru-ovi | viru + ovi | compound (modifier) | "Reverse spiral" / 逆巻 |
-| Secret | minone | mi + novi + ne | direct stack | "We're changing, right?" |
+| Personal | Sirlu | (sir)u.ma(lu) | clip chain | "Terrible knowing" / "a wrong kind of intimacy." **siru** — the root for inner knowing, soul-intimacy, the thread between minds — turned sinister through malu. The "knowing" Laito trades in isn't shared; it's extracted. He drags out desires people want to keep hidden. The root that means "a piece of yourself given to another" becomes something *taken* without asking. |
+| Affiliation | viru-ovi | viru.ovi | compound (modifier) | "Reverse spiral" / 逆巻 |
+| Secret | minone |(mi).(no)vi.(ne) | direct stack | "We're changing, right?" |
 
 **Full reading:** "Hunger; the terrible knowing; belonging to the reverse spiral; we're changing, right?"
 
@@ -377,7 +377,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
 | Role | — | | | None. No role, no affiliation, no secret. Just a name and a direction. |
-| Personal | Tumal | tum(e) + al | clip + particle | "Darkness-toward" / "shadow's direction" / "the purpose of the hidden." A particle (al, direction/purpose) baked into the name, like Velueva's va. His name IS a trajectory — darkness going somewhere. Where it's going, the name doesn't say. |
+| Personal | Tumal | (tum)e.(al) | clip + particle | "Darkness-toward" / "shadow's direction" / "the purpose of the hidden." A particle (al, direction/purpose) baked into the name, like Velueva's va. His name IS a trajectory — darkness going somewhere. Where it's going, the name doesn't say. |
 | Affiliation | — | | | None. The loner. Not Ren, not anything. |
 | Secret | — | | | None. |
 
@@ -399,10 +399,10 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | posdemi | pos + (po)de + demi | overlap blend (shared *po*) | "The one who succeeds to the power dynamic" / "heir-prince." pos (after/succession) + pode (power) + demi (dominance/submission), with pos and pode overlapping at *po*. A prince defined by coming *after* — after his brothers' deaths, after the fire. |
-| Personal | Okalberu | ok(u) + al(e) + (l)ume + beru | aggressive clip chain | "White dragon." Four roots in four syllables: oku (color) + ale (all — white as the presence of all color) + lume (light, reduced to a ghost consonant *l* bridging ale and beru) + beru (beast). A structural mirror of 白龍 (Hakuryuu). The *l* from lume barely survives — light compressed to a single consonant between "everything" and "beast." |
+| Role | posdemi | (pos).(po)(de).(demi) | overlap blend (shared *po*) | "The one who succeeds to the power dynamic" / "heir-prince." pos (after/succession) + pode (power) + demi (dominance/submission), with pos and pode overlapping at *po*. A prince defined by coming *after* — after his brothers' deaths, after the fire. |
+| Personal | Okalberu | (ok)u.(al)e.(l)ume.(beru) | aggressive clip chain | "White dragon." Four roots in four syllables: oku (color) + ale (all — white as the presence of all color) + lume (light, reduced to a ghost consonant *l* bridging ale and beru) + beru (beast). A structural mirror of 白龍 (Hakuryuu). The *l* from lume barely survives — light compressed to a single consonant between "everything" and "beast." |
 | Affiliation | kin | particle | none | "Because" / Ren. The clan whose name is a cause. |
-| Secret | rekalu | re- + kalu | prefix + root | "The returning weapon" / "the stone thrown again" / "revenge." re- (again) + kalu (stone/weapon/permanence). Revenge as repetition — the weapon that won't stay down. |
+| Secret | rekalu | (re.kalu) | prefix + root | "The returning weapon" / "the stone thrown again" / "revenge." re- (again) + kalu (stone/weapon/permanence). Revenge as repetition — the weapon that won't stay down. |
 
 **Full reading:** "Prince; white dragon; because; the returning weapon." The name is a sentence: "The heir — a beast of total light — belonging to 'because' — whose secret is revenge."
 
@@ -423,8 +423,8 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | posdemi | pos + (po)de + demi | overlap blend (shared *po*) | "Heir-prince." Shared with Hakuryuu — they are the same kind of thing, two princes of the same succession. |
-| Personal | Okvedel | ok(u) + ve(na) + de(mi) + l(e) | clip chain | "Crimson leader" / "the blood-power agent colored in red." Four roots in three syllables: oku (color) + vena (blood/red) + demi (power/dominance) + -le (agent). Power dynamics are *personal* to Kouha — demi lives inside his name, not just his role. |
+| Role | posdemi | (pos).(po)(de).(demi) | overlap blend (shared *po*) | "Heir-prince." Shared with Hakuryuu — they are the same kind of thing, two princes of the same succession. |
+| Personal | Okvedel | (ok)u.(ve)na.(de)mi.(l)e | clip chain | "Crimson leader" / "the blood-power agent colored in red." Four roots in three syllables: oku (color) + vena (blood/red) + demi (power/dominance) + -le (agent). Power dynamics are *personal* to Kouha — demi lives inside his name, not just his role. |
 | Affiliation | kin | particle | none | "Because" / Ren. Left hanging — "because—" The prince whose reason is still becoming. No rekalu to finish the sentence. |
 | Secret | — | | | None. |
 
@@ -446,9 +446,9 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | sodemi-nai | so + demi + nai | spatial particle + root + modifier | "No longer beneath the power dynamic" / "submission undone" / "the one who is no longer under." First role to use a spatial particle (so). A liberation statement as identity. And nai's polysemy: also "the love that was beneath submission" — her freedom doesn't erase what she endured, it transforms it. |
-| Personal | Limehana | li(li) + me(re) + hana | clip chain | "Little sea flower" / "small deep bloom" — coral. The meaning of Morgiana (from Persian/Arabic, connected to red coral). Her personal name IS her real name rebuilt in Naikoma. mere (sea/depth) in the middle gives her an origin: she came from the vast, from the deep. |
-| Affiliation | okvedeberu | ok(u) + ve(na) + de(mi) + beru | clip chain | "Red-power-beast" / "crimson strong creature." The Fanalis identity — her people, not her married name. Shares the okve- prefix with Kouha's personal name, linking them by color but not by clan. She doesn't carry kin (Ren). Her people come first. |
+| Role | sodemi-nai | (so.demi.nai) | spatial particle + root + modifier | "No longer beneath the power dynamic" / "submission undone" / "the one who is no longer under." First role to use a spatial particle (so). A liberation statement as identity. And nai's polysemy: also "the love that was beneath submission" — her freedom doesn't erase what she endured, it transforms it. |
+| Personal | Limehana | (li)li.(me)re.(hana) | clip chain | "Little sea flower" / "small deep bloom" — coral. The meaning of Morgiana (from Persian/Arabic, connected to red coral). Her personal name IS her real name rebuilt in Naikoma. mere (sea/depth) in the middle gives her an origin: she came from the vast, from the deep. |
+| Affiliation | okvedeberu | (ok)u.(ve)na.(de)mi.(beru) | clip chain | "Red-power-beast" / "crimson strong creature." The Fanalis identity — her people, not her married name. Shares the okve- prefix with Kouha's personal name, linking them by color but not by clan. She doesn't carry kin (Ren). Her people come first. |
 | Secret | — | | | None. |
 
 **Full reading:** "No longer a slave; little coral; belonging to the red beasts of power." A freed woman who names herself by her liberation, her true name, and her people — in that order.
@@ -475,9 +475,9 @@ Some clusters have shared construction rules that carry thematic meaning:
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
 | Role | resura | re- + sura | prefix + root | "Repeated faces" / "the one who keeps putting on new masks." re- (again) + sura (face/mask). The role IS the act of copying — not a specific face, just the re-masking. |
-| Personal | Okuhahana | ok(u) + ha(na) + hana | clip + full root | "Green plant... plant." Deliberately clunky — oku (color) + hana clipped to ha + hana in full. The name stutters, saying "plant" twice. Assembled by someone who doesn't quite know how names work, because Gonzo doesn't quite know how *being a person* works. A rendering error as identity. Reflects his legal name: Gonzo Turnip Elizabeth Smith. |
-| Affiliation | okulumori | ok(u) + lu(me) + mori | clip chain | "Orange fungus." Flat, descriptive, no poetry. oku (color) + lume (fire/light → warm orange) + mori (fungus/decomposer). Where every other name has layers, Gonzo's affiliation is just a color and a thing. And mori is thematically perfect — the decomposer, what lives between death and new growth. Gonzo is extracted from someone dead, reconstituted into something that walks around. |
-| Secret | ani-nai | ani + nai | compound (modifier) | "Person-absent" / "lacking identity" / "soulless." His secret is that there's nobody here. And nai's polysemy: also "the love of personhood" — he doesn't have an identity, but he aches for the idea of having one. |
+| Personal | Okuhahana | (oku).(ha)na.(hana) | clip + full root | "Green plant... plant." Deliberately clunky — oku (color) + hana clipped to ha + hana in full. The name stutters, saying "plant" twice. Assembled by someone who doesn't quite know how names work, because Gonzo doesn't quite know how *being a person* works. A rendering error as identity. Reflects his legal name: Gonzo Turnip Elizabeth Smith. |
+| Affiliation | okulumori | (ok)u.(lu)me.(mori) | clip chain | "Orange fungus." Flat, descriptive, no poetry. oku (color) + lume (fire/light → warm orange) + mori (fungus/decomposer). Where every other name has layers, Gonzo's affiliation is just a color and a thing. And mori is thematically perfect — the decomposer, what lives between death and new growth. Gonzo is extracted from someone dead, reconstituted into something that walks around. |
+| Secret | ani-nai | (ani.nai) | compound (modifier) | "Person-absent" / "lacking identity" / "soulless." His secret is that there's nobody here. And nai's polysemy: also "the love of personhood" — he doesn't have an identity, but he aches for the idea of having one. |
 
 **Full reading:** "Repeated faces; green plant plant; belonging to the orange fungus; no one is here." The entire name is a portrait of uncanny valley rendered in linguistics.
 
@@ -497,9 +497,9 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | kadele | ka(pu) + de(mi) + le | clip chain + agent suffix | "Head-power-agent" / "captain." Three clips, three syllables, completely functional. kapu (head/lead) + demi (power dynamic) + -le (agent). No poetry — just rank. The demi in the middle means their captaincy is specifically about the *dynamic* of power, not just authority. |
-| Personal | Veriva | veri + va | root + particle | "Truth, I say!" / "spring asserted" / "becoming, I declare." The third name with va baked in (after Velueva and Tumal's al). Where Reiji's va is a demand, Varia's va is a declaration — they don't assert to dominate, they assert because truth is what they carry. And veri as the core means they're always becoming. "Floated to a new world, happier now." |
-| Affiliation | okmekalu | ok(u) + me(re) + kalu | clip chain | "Sea-colored stone" / "deep blue rock" — lapis lazuli. oku (color) + mere (sea/depth) + kalu (stone/permanence). A gem identity: I belong to lapis lazuli because I AM lapis lazuli. The HNK connection — characters who are their material. kalu (permanence) at the end means the name lands on endurance. |
+| Role | kadele | (ka)pu.(de)mi.(le) | clip chain + agent suffix | "Head-power-agent" / "captain." Three clips, three syllables, completely functional. kapu (head/lead) + demi (power dynamic) + -le (agent). No poetry — just rank. The demi in the middle means their captaincy is specifically about the *dynamic* of power, not just authority. |
+| Personal | Veriva | (veri.va) | root + particle | "Truth, I say!" / "spring asserted" / "becoming, I declare." The third name with va baked in (after Velueva and Tumal's al). Where Reiji's va is a demand, Varia's va is a declaration — they don't assert to dominate, they assert because truth is what they carry. And veri as the core means they're always becoming. "Floated to a new world, happier now." |
+| Affiliation | okmekalu | (ok)u.(me)re.(kalu) | clip chain | "Sea-colored stone" / "deep blue rock" — lapis lazuli. oku (color) + mere (sea/depth) + kalu (stone/permanence). A gem identity: I belong to lapis lazuli because I AM lapis lazuli. The HNK connection — characters who are their material. kalu (permanence) at the end means the name lands on endurance. |
 | Secret | — | | | None. |
 
 **Full reading:** "Captain; truth declared; belonging to the blue stone." Three positions, confident, each syllable earned.
@@ -520,8 +520,8 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | savile | savi + le | root + agent suffix | "The one who knows" / "knowing-agent" / "scientist." Transparent, no fusion — just wisdom and its agent. The pen name says exactly what it wants you to see. |
-| Personal | Benari | ben(u) + (h)a(na) + (ve)ri | clip chain (h-drop) | "Good-bloom-spring" / "a good flowering becoming" / "the ideal in bloom." Three roots in three syllables. The h from hana drops, leaving *a* to bridge between ben and ri. Pun-dense: benu (good/ideal) maps to 이상 (yi-sang = "ideal" in Korean). Hana (plant/flower) maps to 李 (plum). Veri (spring/becoming) captures blooming. The pen name 李箱 (plum-wood-box) becomes "ideal bloom in spring" — the container becomes the thing growing inside it. |
+| Role | savile | (savi.le) | root + agent suffix | "The one who knows" / "knowing-agent" / "scientist." Transparent, no fusion — just wisdom and its agent. The pen name says exactly what it wants you to see. |
+| Personal | Benari | (ben)u.ha(na).ve(ri) | clip chain (h-drop) | "Good-bloom-spring" / "a good flowering becoming" / "the ideal in bloom." Three roots in three syllables. The h from hana drops, leaving *a* to bridge between ben and ri. Pun-dense: benu (good/ideal) maps to 이상 (yi-sang = "ideal" in Korean). Hana (plant/flower) maps to 李 (plum). Veri (spring/becoming) captures blooming. The pen name 李箱 (plum-wood-box) becomes "ideal bloom in spring" — the container becomes the thing growing inside it. |
 | Affiliation | — | | | None. Yi Sang is a pen name. The name itself is already a constructed identity — adding an affiliation would anchor something meant to float. |
 | Secret | — | | | None. A pen name that admits it's a pen name has nothing left to hide. |
 
@@ -544,7 +544,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
 | Role | dopsavle | (dop)u.(sav)i.(le) | clip chain + agent suffix | "One who knows pain." Three morphemes, three clips. Not dopu-le (one defined by pain) or dopu-nai (without pain) — dopu + savi + le, the *knower* of pain. The role describes expertise, not affliction. She was in pursuit of pain; now she understands it. The hammer comes down soft because the hand already knows what hammers do. |
-| Personal | Komira | ko.mira | direct stack (no clipping) | "Home-mirror" / "the familiar seeing" / "belonging-wonder." Both roots survive whole — no compression needed. Echoes Vergil's name **Konoko** (ko + mano + ko) — both names start with ko (home/belonging), and both center on closeness. Konoko reaches through hands; Komira reaches through seeing. The same belonging, different senses. |
+| Personal | Komira | (ko.mira) | direct stack (no clipping) | "Home-mirror" / "the familiar seeing" / "belonging-wonder." Both roots survive whole — no compression needed. Echoes Vergil's name **Konoko** (ko + mano + ko) — both names start with ko (home/belonging), and both center on closeness. Konoko reaches through hands; Komira reaches through seeing. The same belonging, different senses. |
 | Affiliation | — | | | None. Corp/Book/Bus affiliation still TBD. |
 | Secret | naiani | nai.ani | direct stack | "Beloved person" / "love-person." And nai's polysemy: also "absent person" — the one who wasn't here for a long time. Fully parseable, no compression. The secret isn't hidden in technique; it's hidden in vulnerability. Anyone who speaks Naikoma could read it. You just have to be trusted enough to hear it. |
 
@@ -571,10 +571,10 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | su-podele | su- + pode + -le | modifier + root + agent suffix | "The beyond-able one" / "Ultimate." The shared Half Moon title. No domain suffix — the title says he's beyond; the personal name says what he's beyond *about*. |
-| Personal | Solanai | sola + nai | direct stack | "Star-love" / "space-love" / "solitary devotion." sola (star/sun/alone) + nai (love/absence). Every polysemy fires: star-love (he loves space), star-absence (space IS the absence between stars), alone-love (devotion despite solitude). For someone with memories from two timelines, the name holds both Kaitos — the one who reached the stars and the one who didn't. |
-| Affiliation | mutahana | muta + hana | direct stack | "Many plants" / "abundance of blooms" — 百田 (Momota, hundred-fields) rendered in Naikoma. The surname translated into a living landscape. |
-| Secret | savi-vu | savi + -vu | root + modifier | "Worthy of knowing" / "deserving of wisdom." He cheated on his exams. His secret is the quiet insistence that he still deserves to see the stars — not as arrogance, but as hope. -vu is always an invitation, never a demand. |
+| Role | su-podele | (su.pode.le) | modifier + root + agent suffix | "The beyond-able one" / "Ultimate." The shared Half Moon title. No domain suffix — the title says he's beyond; the personal name says what he's beyond *about*. |
+| Personal | Solanai | (sola.nai) | direct stack | "Star-love" / "space-love" / "solitary devotion." sola (star/sun/alone) + nai (love/absence). Every polysemy fires: star-love (he loves space), star-absence (space IS the absence between stars), alone-love (devotion despite solitude). For someone with memories from two timelines, the name holds both Kaitos — the one who reached the stars and the one who didn't. |
+| Affiliation | mutahana | (muta.hana) | direct stack | "Many plants" / "abundance of blooms" — 百田 (Momota, hundred-fields) rendered in Naikoma. The surname translated into a living landscape. |
+| Secret | savi-vu | (savi.vu) | root + modifier | "Worthy of knowing" / "deserving of wisdom." He cheated on his exams. His secret is the quiet insistence that he still deserves to see the stars — not as arrogance, but as hope. -vu is always an invitation, never a demand. |
 
 **Full reading:** "Ultimate; star-love; belonging to the hundred fields; worthy of knowing." The name of someone who insists on his own dream.
 
@@ -594,7 +594,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | su-podele | su- + pode + -le | modifier + root + agent suffix | "The beyond-able one" / "Ultimate." Shared with Kaito. |
+| Role | su-podele | (su.pode.le) | modifier + root + agent suffix | "The beyond-able one" / "Ultimate." Shared with Kaito. |
 | Personal | Komale | (ko)re.(ma).(le) | clip chain + agent suffix | "Heart-speech-maker" / "music maker." kore (heart) clips to ko, then ma (speech/tongue) + -le (agent). kore-ma = music (heart-speech), the compound for music as art. The -le makes her the *one who makes it*. And ko at the start carries its home/belonging echo — the music-maker whose name begins with belonging. |
 | Affiliation | okvehana | (ok)u.(ve)na.(hana) | clip chain | "Red plant" — 赤松 (Akamatsu, red pine) rendered in Naikoma. oku (color) + vena (blood/red) + hana (plant). The surname rebuilt as a growing thing colored in blood. Shares the okve- prefix with Kouha and Morgiana — three characters wearing red for completely different reasons. |
 | Secret | kinale | kin + ale | particle + root | "Because all" / "because everything" / "by any means necessary." kin (because) + ale (all/everything). A sentence fragment that doesn't finish — *because everyone, because all of them, because—*. For someone who crossed the boundary to save everyone, the secret is her resolve. The thing she was willing to kill for. |
@@ -618,9 +618,9 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | su-su-podele | su- + su- + pode + -le | doubled modifier + root + agent suffix | "The beyond-beyond-able one." The Ultimate title stuttered — su- doubled because Hajime isn't just an Ultimate, he was made into *all* of them. Izuru Kamukura, every talent compressed into one person. The doubled intensifier reads almost glitched, a title that overclocks the way his identity was overclocked. |
-| Personal | Doveri | (do)pu + (veri) | clip chain | "Beginning-wound" / "pain-becoming" / "the wound that's still growing into something." 始 (Hajime) = beginning, with dopu carrying the /do/ that echoes his source name while meaning pain. His beginning WAS a wound. The veri (becoming/spring) at the tail says it's in-progress — he's still becoming out of what was done to him. |
-| Affiliation | alume | (a)l + (lume) | particle + root | "Toward light." 日向 (Hinata) = sunny place / facing the sun. The al particle (direction/toward) pointing at lume (fire/light). Not *at* the sun — *toward* it. He's not there yet. He's walking that direction. |
+| Role | su-su-podele | (su.su.pode.le) | doubled modifier + root + agent suffix | "The beyond-beyond-able one." The Ultimate title stuttered — su- doubled because Hajime isn't just an Ultimate, he was made into *all* of them. Izuru Kamukura, every talent compressed into one person. The doubled intensifier reads almost glitched, a title that overclocks the way his identity was overclocked. |
+| Personal | Doveri | (do)pu.(veri) | clip chain | "Beginning-wound" / "pain-becoming" / "the wound that's still growing into something." 始 (Hajime) = beginning, with dopu carrying the /do/ that echoes his source name while meaning pain. His beginning WAS a wound. The veri (becoming/spring) at the tail says it's in-progress — he's still becoming out of what was done to him. |
+| Affiliation | alume | (al).(lume) | particle + root | "Toward light." 日向 (Hinata) = sunny place / facing the sun. The al particle (direction/toward) pointing at lume (fire/light). Not *at* the sun — *toward* it. He's not there yet. He's walking that direction. |
 | Secret | ko-ka | ko + ka | root + particle | "Where is home?" / "is this home?" / "home?" The only name in the entire cast that ends on a question. Everyone else declares, fragments, asserts, hides. Hajime *asks*. He didn't know anyone before arriving. His secret is a question he hasn't answered yet. |
 
 **Full reading:** "The one who was made into too much; a wound still becoming; walking toward the light; is this home?" A name that hasn't finished its own sentence.
@@ -642,7 +642,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | su-podele-nai | su- + pode + -le + -nai | modifier + root + agent suffix + negation | "The un-Ultimate" / "the beyond-able one, without." The title negated. Every other Half Moon member wears su-podele straight; Byakuya puts -nai on it. Is he rejecting it? Did he lose it? Or is it "the Ultimate's love" — he doesn't need the label because "you're already aware of who I am"? The -nai is either the most humble or the most arrogant modifier in the cast, depending on who's reading. |
+| Role | su-podele-nai | (su.pode.le.nai) | modifier + root + agent suffix + negation | "The un-Ultimate" / "the beyond-able one, without." The title negated. Every other Half Moon member wears su-podele straight; Byakuya puts -nai on it. Is he rejecting it? Did he lose it? Or is it "the Ultimate's love" — he doesn't need the label because "you're already aware of who I am"? The -nai is either the most humble or the most arrogant modifier in the cast, depending on who's reading. |
 | Personal | Okaletu | (ok)u.(ale).(tu)me | clip chain | "White night." 白夜 (Byakuya) rendered exactly. oku-ale (white, all colors present) + tume (darkness/night). 白夜 is a real phenomenon — the midnight sun, when night never gets dark. A darkness that's actually full of light. The oxymoron lives in the name: totality of color + shadow. |
 | Affiliation | mudeani | (mu)ta.(de)mi.(ani) | clip chain | "Many gods" / "many power-beings." 十神 (Togami) = ten gods. muta (many) + demi (power/dominance) + ani (person). demi bridges to divinity through its Latin echo — dominus, lord. Gods as those who hold ultimate authority. |
 | Secret | kasu | atomic | none | "Healing." One word. No fusion, no compression, no armor. The most fortified name in the Half Moon — negated title, oxymoronic personal name, divine surname — and the secret is the gentlest root in the lexicon. Just healing. |
