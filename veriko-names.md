@@ -942,48 +942,6 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 ---
 
-### Mani (March & Nami) → *[TBD]*
-
-| Position | Word | Roots | Technique | Reading |
-|----------|------|-------|-----------|---------|
-| Role | | | | |
-| Personal | | | | |
-| Affiliation | | | | |
-| Secret | | | | |
-
-**Source notes:** Multifictive. "More than one of something." Incubating in a crater in his own heart. Redhead love interests.
-
----
-
-### Saya → *[TBD]*
-
-| Position | Word | Roots | Technique | Reading |
-|----------|------|-------|-----------|---------|
-| Role | | | | |
-| Personal | | | | |
-| Affiliation | | | | |
-| Secret | | | | |
-
-**Source notes:** Listed in Cordolia. No individual section in system doc.
-
----
-
-## The Red Kingdom
-
-*Not a zone. A circulation. The force that moves through all zones.*
-
-### Crimson King (Ren) → *[TBD]*
-
-**Source notes:** The red life within Spierce. Brought together by the desire for more — corroding and consuming. The king's neck bears the scar of wanting. Spring comes.
-
----
-
-### Red Knight (Martyn) → *[TBD]*
-
-**Source notes:** The red life within Vergil. Arose with fervor and devotion. The axe drips with blood, bearing the name of Red Winter. Spring comes.
-
----
-
 ## Affiliation Names — Cluster Index
 
 | Cluster | Affiliation Name | IPA | Roots | Technique | Reading |
