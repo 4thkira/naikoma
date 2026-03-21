@@ -96,7 +96,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
 | Role | sola | atomic | none | "Light, star, sun; alone, solitary." A solitary light — luminous because she's untethered. The sun and aloneness are the same word. |
-| Personal | Spira | so(la) + po(de) + (m)ira | aggressive clip chain | "The solitary power of seeing" / "the lone star that can wonder." Three roots in two syllables. The /sp/ onset cluster breaks normal Naikoma phonotactics — her name sounds slightly foreign even in the intimacy language, marking her as a traveler by its very shape. |
+| Personal | Spira | (s)ola.(p)ode.m(ira) | aggressive clip chain | "The solitary power of seeing" / "the lone star that can wonder." Three roots in two syllables. The /sp/ onset cluster breaks normal Naikoma phonotactics — her name sounds slightly foreign even in the intimacy language, marking her as a traveler by its very shape. |
 | Affiliation | — | | | None. She belongs to no cluster. The absence is the statement. |
 | Secret | — | | | None. Either she's entirely legible, or a name with nothing hidden is its own kind of opacity. |
 
