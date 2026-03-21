@@ -41,7 +41,7 @@ Wrap the letters that survive into the final name in parentheses. Everything out
 
 The technique choice is never arbitrary — it reflects the character's personality, source material, or thematic role:
 
-- **Clip chain** — The standard. Take onsets or tails of each root and chain them. Most names use some version of this. *(Koamir, Okalberu, Okvedel, Limehana, Veriva, okmekalu, kadele)*
+- **Clip chain** — The standard. Take onsets or tails of each root and chain them. Most names use some version of this. *(Konoko, Okalberu, Okvedel, Limehana, Veriva, okmekalu, kadele)*
 - **Overlap blend** — Two roots share a consonant or syllable at their boundary, compressing further. *(Timalu: ruma and malu overlap at ma; posdemi: pos and pode overlap at po)*
 - **Tail-clipping** — Keep the end of each root instead of the beginning. Used deliberately for esoteric or poetic characters. *(Benari: ben from benU, na from haNa, ri from veRi — Yi Sang's esoteric poetry style)*
 - **Aggressive onset extraction** — Strip roots down to their first consonant or consonant cluster. Used for maximum density. *(Spira: so + po + ira in two syllables)*
@@ -64,23 +64,24 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 ## Co-Hosts
 
-### Vergil → Koamir
+### Vergil → Konoko
 
-**Full Name:** resa Koamir mutamano valo-veri
+**Full Name:** kutu Konoko mutamano ani-veri
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | resa | atomic | intentional substitution | "object, tool" — declares himself a thing instead of a person (ani). Personhood is obvious; what needs to be said aloud is the lack of it. |
-| Personal | Koamir | ko(re) + al(e) + mira | clip chain | ko carries a deliberate ambiguity: readable as **ko** (home) or the clip of **kore** (heart). A stranger hears "the home that watches all." Someone close hears "the heart that sees everything." The first is surveillance — nothing in his domain goes unnoticed. The second is vulnerability — he can't look away from anything. Phonetically echoes "Konoko" (kon + oko, hidden-seeing) rebuilt in Naikoma's logic: the name centers on *seeing* rather than *feeling*. |
-| Affiliation | mutamano | muta + mano | direct compound | "Many hands." The syndicate family name. The reach, the network, the implication that the syndicate *is* its members' hands doing work. Transparent enough that anyone who knows the roots can parse it — but "many hands" is innocuous on the surface. What kind of hands, doing what work, only insiders know. |
-| Secret | valo-veri | valo + veri | compound (suffix) | "Life-becoming" / "still becoming alive." With -veri as suffix (in-progress), this is an admission: *I'm not done yet.* The most hidden part of the name is the softest. |
+| Role | kutu | kutu | atomic | "Is used" / "the used one." Not a declaration of *being* a thing (resa) but of *being instrumentalized*. The difference matters — resa is categorical, kutu is relational. Someone is doing the using. The role names the dynamic, not the object. |
+| Personal | Konoko | (ko).ma(no).(ko) | clip chain | ko appears twice with mano bridging, but the two ko's aren't the same word twice — they're the same root read differently on each side of the hand. ko carries home, hearth, belonging, familiarity, the small comfortable thing. So the name is a matrix of readings: home holds familiarity. Belonging touches hearth. The familiar reaches for the small comfortable thing. Every permutation of ko's meanings reaching through mano toward every other permutation. The meaning circulates rather than progresses — it keeps reaching. Shares the sound of the toki pona name (ilo Konoko, kon+oko = hidden-seeing) but builds from entirely different roots — in toki pona it's covert perception; in Naikoma it's belonging that can't stop reaching for itself. Two languages, same sound, different thesis. |
+| Affiliation | mutamano | (muta).(mano) | direct compound | "Many hands." The syndicate family name. The reach, the network, the implication that the syndicate *is* its members' hands doing work. Transparent enough that anyone who knows the roots can parse it — but "many hands" is innocuous on the surface. What kind of hands, doing what work, only insiders know. |
+| Secret | ani-veri | (ani).(veri) | compound (suffix) | "Becoming a person." With -veri as suffix (in-progress), this is the hidden admission: *I'm not a person yet, but I'm trying.* For someone whose role is kutu (used), the secret is the hope of being more than an instrument. More specific than the previous valo-veri (becoming alive) — not just life, but *personhood*. |
 
-**Full reading:** "A tool — the heart that sees everything — belonging to the many hands — still becoming alive."
+**Full reading:** "Used; home-hand-home; belonging to the many hands; becoming a person."
 
 **Notes:**
-- Parallel to his toki pona name: ilo Konoko kute Lonpanpa. Both systems use the same move (tool instead of person, coded family name, deliberate obscurity).
-- The ko/re ambiguity functions as a passive shibboleth: how you parse the name reveals how well you know him.
-- The shift from kominai (ending on love/absence) to Koamir (ending on seeing) recenters the name on what he *does* rather than what he *feels* — matching the toki pona name's "hidden-seeing" construction.
+- Parallel to his toki pona name: ilo Konoko kute Lonpanpa. Both systems use the same moves (instrumentalization as role, Konoko as personal name, coded family name). But the Naikoma Konoko and the toki pona Konoko mean different things: hidden-seeing vs. home-hand-home. The name is a false cognate of itself.
+- The shift from Koamir to Konoko drops seeing (mira) and heart (kore) entirely. What remains is ko, twice — belonging is the whole identity now, not perception. The name stopped watching and started holding.
+- kutu as a role is the first name to use the new root. Its debut in the most central name in the document ties "use" to the world's core philosophy immediately.
+- The mano inside Konoko (hand/touch/hold) echoes the mano inside mutamano (many hands). His personal name and his affiliation share a root — he's made of the same thing the syndicate is.
 - Mutamano is the syndicate — a separate entity from his loved ones. The family that made him, not the people who chose him.
 - Koume's expy is the only non-co-host member of mutamano.
 
@@ -522,7 +523,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
 | Role | dopsavle | (dop)u.(sav)i.(le) | clip chain + agent suffix | "One who knows pain." Three morphemes, three clips. Not dopu-le (one defined by pain) or dopu-nai (without pain) — dopu + savi + le, the *knower* of pain. The role describes expertise, not affliction. She was in pursuit of pain; now she understands it. The hammer comes down soft because the hand already knows what hammers do. |
-| Personal | Komira | ko.mira | direct stack (no clipping) | "Home-mirror" / "the familiar seeing" / "belonging-wonder." Both roots survive whole — no compression needed. Echoes Vergil's name **Koamir** (ko(re) + al(e) + mira) — the same ko...mira frame, with the distance removed. Koamir has three roots; Komira has two. The same mirror, closer. |
+| Personal | Komira | ko.mira | direct stack (no clipping) | "Home-mirror" / "the familiar seeing" / "belonging-wonder." Both roots survive whole — no compression needed. Echoes Vergil's name **Konoko** (ko + mano + ko) — both names start with ko (home/belonging), and both center on closeness. Konoko reaches through hands; Komira reaches through seeing. The same belonging, different senses. |
 | Affiliation | — | | | None. Corp/Book/Bus affiliation still TBD. |
 | Secret | naiani | nai.ani | direct stack | "Beloved person" / "love-person." And nai's polysemy: also "absent person" — the one who wasn't here for a long time. Fully parseable, no compression. The secret isn't hidden in technique; it's hidden in vulnerability. Anyone who speaks Naikoma could read it. You just have to be trusted enough to hear it. |
 
@@ -532,7 +533,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 **Notes:**
 - First name to use the new root **dopu** (pain) — created in the same session it was needed for. The root was built for this name.
-- The Komira / Koamir echo is the most structurally intimate link between any two names in the cast. Same frame, fewer roots, no distance.
+- The Komira / Konoko echo links two ko-initial names — both built on belonging, one through touch (Konoko: home-hand-home), one through sight (Komira: home-mirror). The same first syllable, different senses reaching.
 - naiani as a secret uses zero fusion technique — both roots survive whole. The least compressed secret in the cast, because the tenderness doesn't need armor.
 - Fourth name in Corp/Book/Bus. All four have radically different relationships to selfhood: Gonzo (hollow), Varia (declared), Yi Sang (authored), Kromer (known).
 
@@ -582,7 +583,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 **Notes:**
 - kinale mirrors Kouha's hanging kin — both are "because" without resolution. But where Kouha's cause is unfinished (still becoming), Kaede's cause is totality (because *all*). The incompleteness is in the action, not the reason.
 - okvehana adds a third okve- name to the cast (after Okvedel and okvedeberu). Three reds: royal (Kouha), racial (Morgiana), botanical (Kaede).
-- Komale is phonetically close to Koamir (Vergil) and Komira (Kromer) — the ko- onset is becoming a recurring thread across clusters. Heart, home, belonging — the same first syllable, different directions.
+- Komale is phonetically close to Konoko (Vergil) and Komira (Kromer) — the ko- onset is becoming a recurring thread across clusters. Home, belonging — the same first syllable, different directions.
 - Second Half Moon name to carry a Japanese surname as affiliation (mutahana / okvehana). Emerging cluster pattern.
 
 ---
@@ -724,7 +725,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 **Source notes:** Enstars OC. Beloved eldest sister. Nobody took her seriously. Shu was her last hope. **Also a member of mutamano** — bridges both the syndicate and the loved ones.
 
 **Notes:**
-- Four positions filled, fully armored — same structure as Vergil's (resa Koamir mutamano valo-veri). She's the only non-co-host member of mutamano, and her name is equally fortified.
+- Four positions filled, fully armored — same structure as Vergil's (kutu Konoko mutamano ani-veri). She's the only non-co-host member of mutamano, and her name is equally fortified.
 - The contrast between role (varule — assassin) and personal name (Kobenu — familiar good) is the sharpest role/personal split in the document. Most names have some continuity between positions; Koume's name *argues with itself*.
 - Shares the mutamano affiliation with Vergil — but where it's his origin, it's her choice. Same word, different relationship to it.
 - voleruma uses the same ruma that appears in her role (varule). Ruin frames her from the outside in — the first thing you hear about her (life-ender) and the last thing she'd ever tell you (she wants it) share the same root.
@@ -732,16 +733,27 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 ---
 
-### Yua Shinkai → *[TBD]*
+### Yua Shinkai → Halme
+
+**Full Name:** mebedemi Halme sirme wan-dopu-mere-beru e pri-so so-mere
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | | | | |
-| Personal | | | | |
-| Affiliation | | | | |
-| Secret | | | | |
+| Role | mebedemi | (me)re.(be)ru.(demi) | clip chain | "Sea-beast-dominance" / "fish god." Not merely a powerful creature — demi makes it the *dynamic* of power, the relationship between the one who commands and what yields. For the first Shinkai who rose cursed from the sea, the role claims mythological authority. A god of fish, a god that *is* a fish, or the dominion the sea holds over its creatures — all readings live here. |
+| Personal | Halme | (hal)u.(me)re | clip chain | "Dream-sea." Two clips, gentle, no tricks. Underneath the fish god is just a dreaming ocean. Renders Yua through longing (halu) and depth (mere). The simplicity is the point — the personal name is where the myth rests. |
+| Affiliation | sirme | (sir)u.(me)re | clip chain | "Inner-knowing-sea" / "deep sea." Shinkai (深海) rendered through Naikoma — but siru makes the depth *intimate* rather than merely physical. Not 深 as deep water, but deep as in the sea that knows you from the inside. The Shinkai family name carries soul-intimacy in its structure. |
+| Secret | wan-dopu-mere-beru e pri-so so-mere | wan + dopu + mere + beru + e + pri + so + so + mere | compound chain with particles | "The first sickly sea-beast, from before-beneath, under the sea." A compressed origin myth rather than a fused word — practically a sentence, with particles (e, pri-so, so) giving it grammatical structure. The rising is implied by absence: they describe where they came *from*, and the fact that they're here means they left. Reads like something Yua would *say* rather than be called. |
+
+**Full reading:** "Fish god; dream-sea; of the deep-knowing sea; the first sickly fish that rose from before and beneath the ocean." Four positions, fully armored, sea in every slot.
 
 **Source notes:** Enstars OC. Started as part of Vergil before separating. First Shinkai to rise from the sea. Cursed and alive.
+
+**Notes:**
+- mere appears in nearly every position — mebedemi, halme, sirme, and twice in the secret. The sea saturates the entire name. Yua doesn't *come from* the ocean; Yua *is* the ocean at every level of reading.
+- The secret is the longest and most structurally complex in the document. Where Vergil's secret is two roots (valo-veri), Koume's is two roots (voleruma), and Sixtine's is three (dopale-nai), Yua's is an entire sentence with particles. The length is the point — their secret isn't a hidden truth, it's an origin story.
+- First name to use grammatical particles (e, pri, so) inside the secret position. The secret has syntax, which makes it read as speech rather than a title.
+- halme and sirme are structurally identical (two-syllable clip blends ending in -me from mere). The personal name and the family name rhyme. Yua and Shinkai echo each other — the person and the lineage are the same shape.
+- Continues the Cantus Astra pattern: sirme renders Shinkai (深海 = deep sea) through Naikoma semantics, halme renders Yua through dream and sea.
 
 ---
 
@@ -749,42 +761,72 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 *The Other Spierces. What If Things Were Different?*
 
-### Spierce Demian → *[TBD]*
+### Spierce Demian → Spira
+
+**Full Name:** demile Spira
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | | | | |
-| Personal | | | | |
-| Affiliation | | | | |
-| Secret | | | | |
+| Role | demile | (demi).(le) | root + agent suffix | "The one who lives in the power dynamic." demi (dominance/submission, the exchange of power) + -le (agent). Doesn't specify which side — she's both the one who holds authority (stepping into Demian's role as mentor) and the one who yielded everything (gave up her own world to do it). The role is the *relationship* between guide and guided, not a position within it. |
+| Personal | Spira | (s)ola.(p)ode.m(ira) | aggressive onset extraction | Identical to the original Spierce. "The lone power of seeing." Same three roots, same two syllables, same foreign /sp/ cluster. She *is* Spierce — the mirror didn't change who she is, only what she does. |
+| Affiliation | — | | | None. She's from a mirror world. She doesn't belong anywhere in the main world's structure. |
+| Secret | — | | | None. Same openness as the original. |
+
+**Full reading:** "The one in the dynamic; the lone power of seeing." Two positions, wide open — structurally identical to sola Spira, with only the role changed.
 
 **Source notes:** Mirror identity. From the NCorp mirror world. Took Demian's place to save Sinclair. Enjoys philosophy and observing. "Like a spring breeze."
 
+**Notes:**
+- The mirror is structural: same personal name (Spira), different role (demile vs. sola). One Spierce is defined by luminous aloneness; the other by a relationship she chose to enter.
+- Two positions, no affiliation, no secret — continues the Spierce-adjacent pattern of unarmored names. The people closest to Spierce don't need layers.
+- demile is the first role to use the demi root. Its ambiguity (which side of the dynamic?) is the point — she's the mentor who sacrificed, the guide who yielded. Both halves of demi at once.
+- Shares a personal name with exactly one other entry in the document. The repetition *is* the Mirror Wall's thesis: "What if things were different?" The answer: the name stays. The role changes.
+
 ---
 
-### The Eye (Spierce Yagami) → *[TBD]*
+### The Eye (Spierce Yagami) → Mira
+
+**Full Name:** vavukapu-le Mira tudemi
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | | | | |
-| Personal | | | | |
-| Affiliation | | | | |
-| Secret | | | | |
+| Role | vavukapu-le | (va)lo.(vu).(kapu).(le) | clip chain + agent suffix | "Life-worthiness-decider-agent" / Kira. Four roots describing one function: who is worthy of life, and I will decide. Pulls -vu out of its suffix role and uses it as a standalone concept — not "worthy of X" but *worthiness itself*. kapu makes the deciding cerebral, methodical — a judgment of the head, not the heart. The notebook as a tool of calculated choice. |
+| Personal | Mira | mira | atomic | "Eye" / "seeing" / "wonder." She calls herself The Eye, and the personal name IS the eye. A Spierce who *doesn't carry Spira* — she broke the name apart, kept the seeing (mira), dropped the solitude (sola) and the power (pode). Those got redistributed into the other slots. Where Spierce Demian kept the whole name and changed the role, The Eye dismantled the name and kept only the piece that defines her. |
+| Affiliation | tudemi | (tu)me.(demi) | clip chain | "Dark-dominance" / "night god." Yagami (夜神) rendered through Naikoma — tume maps to 夜 (night/dark), demi maps to 神 (god). But demi makes this god one of *dominion*, not worship. Yagami's divinity is the power dynamic itself — the god who holds authority over life and death. |
+| Secret | — | | | None. "Always watching, dutiful." She observes; she doesn't hide. |
+
+**Full reading:** "The one who decides the worthiness of life; the eye; of the dark god." Three positions — more armored than Spierce Demian's two, less than Vergil's four. A watcher with a judgment and a lineage, but nothing concealed.
 
 **Source notes:** Mirror identity. Prefers "the Eye." Lived with Light's family. Became Kira together. Always watching, dutiful.
 
+**Notes:**
+- First name to use -vu as a standalone root-level concept rather than a suffix. Recontextualizes the modifier as a noun: worthiness, the quality of deserving. This fills the "choice/decision" gap through kapu (mind/deciding) and frames it as judgment specifically.
+- The Eye and Spierce Demian represent two structural answers to the Mirror Wall's question. Demian kept Spira whole and changed the frame (demile Spira). The Eye broke Spira into its components and redistributed them — mira stayed as the personal name, while sola's aloneness and pode's power dissolved into the other slots. Same source name, opposite approaches.
+- tudemi uses demi for "god" — the second name to use the demi root (after demile), and the second in the Mirror Wall. demi is becoming a Mirror Wall signature: the wall is where power dynamics live.
+- Three positions (role, personal, affiliation) vs. Demian's two (role, personal). The Eye is more armored — she has a lineage to carry (Yagami), where Demian belongs to no one.
+
 ---
 
-### Ausma Prochainezo → *[TBD]*
+### Ausma Prochainezo → Vesola
+
+**Full Name:** wan-spira Vesola kutukalu
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | | | | |
-| Personal | | | | |
-| Affiliation | | | | |
-| Secret | | | | |
+| Role | wan-spira | (wan).(spira) | direct compound | "The first Spierce" / "the one who was Spierce." wan (one/first) + Spira (the Spierce personal name). Putting Spira in the *role* position rather than the personal name means being Spierce is what she *did*, not who she *is*. She was tossed out when she got boring. The name she used to carry is just a former title now. |
+| Personal | Vesola | (ve)ri.(sola) | clip chain | "Becoming-light" / "new daylight" / "spring sun" / dawn. Ausma is Latvian for dawn — veri (renewal/becoming) + sola (light/sun) renders it through Naikoma. Who she is *now*: not the Spierce who was discarded, but the one refurbished into something new. sola's polysemy adds: "becoming-alone" / "renewal in solitude" — discarded, then re-lit. |
+| Affiliation | kutukalu | (kutu).(kalu) | direct compound | "Used stone" / "hammer" / martillo. The first compound to use the kutu root. kutu (use/instrumentalize) + kalu (stone/weapon) = a stone made into a tool. Martillo — the Baccano! family. And "used stone" for someone who was used and discarded carries double weight: she's the hammer, but she's also the thing that was picked up, employed, and tossed. Still here. Still hard. |
+| Secret | — | | | None. Three positions, open. "Just a lil guy." |
+
+**Full reading:** "The first Spierce; dawn; of the used stone." A discarded identity, a renewed self, and an affiliation that names what was done to her and what she became anyway.
 
 **Source notes:** The original Spierce. Discarded and refurbished. Relates to Dazai. Oda saved her. "Just a lil guy."
+
+**Notes:**
+- wan-spira is the third Mirror Wall name to use Spira, and the only one to put it in the role slot rather than the personal slot. Spierce Demian carries Spira as who she is; The Eye broke it apart; Ausma relegated it to what she used to be. Three Spierces, three relationships to the same name.
+- vesola contains sola, which is the *original* Spierce's role word (sola Spira). Ausma took the sun from the role and put it in her personal name — the light that used to be Spierce's title is now part of Ausma's self. She didn't lose it; she absorbed it.
+- kutukalu is the first name to use the kutu root (created this session). Its debut as "used stone / hammer" immediately gives the root both its practical meaning (a tool) and its darker one (a person instrumentalized).
+- The Mirror Wall now has three names at three different armor levels: Demian (2 positions), The Eye (3 positions), Ausma (3 positions). None have secrets. The wall is transparent — mirrors don't hide things, they show them.
 
 ---
 
@@ -792,42 +834,75 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 *Vergil's soulbonds. My Love Arrives at My Door.*
 
-### Travis Touchdown → *[TBD]*
+### Travis Touchdown → Teruvik
+
+**Full Name:** belt-muta-naik Teruvik mansot
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | | | | |
-| Personal | | | | |
-| Affiliation | | | | |
-| Secret | | | | |
+| Role | belt-muta-naik | (be)nu.(l[t])e.(muta).(nai[k]) | clip chain + register shifting | "The No More Hero." benu-le (good-agent = hero) + muta (more) + nai (not/no more), with every functional piece register-shifted casual: -le truncates and takes a -t stop (→ lt), nai takes a -k stop (→ naik). The game title rendered in Naikoma and spoken raw — spat out, not prayed. Sounds like something you'd shout before cutting someone down. |
+| Personal | Teruvik | (te)na.si(ru).sa(vi[k]) | clip chain + register shifting | "Skin-knowing-wisdom" / "tenderness-soul-knowledge." tena (skin/intimacy) + siru (inner knowing/soul-intimacy) + savi (understanding), with savi hardened to vik via -k stop addition. The personal name underneath the assassin is built entirely from intimacy and deep knowing — the guy whose io is Vergil, whose real identity is gentleness wearing crude. The consonant skeleton (t-r-v-k) echoes *Travis* itself — the English name's bones sitting inside the Naikoma one. |
+| Affiliation | mansot | (man)o.(so[t]) | clip chain + register shifting | "Hand-down" / "hand-beneath" = touchdown. mano (hand) + so (under/below) with -t stop addition. The surname literally translated through a spatial particle, register-shifted hard. Blunt, physical, exactly what it sounds like. |
+| Secret | — | | | None. Three positions, no secret. Travis doesn't hide things. |
+
+**Full reading:** "The No More Hero; tender-knowing-wisdom; hand-down." An assassin title screamed in casual register, a personal name built from intimacy, and a surname that's just a fist hitting the ground.
 
 **Source notes:** No More Heroes. #1 assassin. Rose to the top twice, threw it all away. "Vergil's my io."
 
+**Notes:**
+- First name to use register-shifting strategies in every single position. Every slot has at least one bracket-marked shift — -le → lt, nai → naik, savi → vik, so → sot. Travis doesn't do sacred. Even his tenderness has a -k on the end.
+- The contrast between role (belt-muta-naik — all hard stops, a battle cry) and personal name (teruvik — skin, soul-intimacy, knowing) is the Travis Touchdown thesis: crude on the surface, gentle at the core. The register shifts harden the gentleness just enough to not sound soft — but the roots are still tena, siru, savi.
+- The consonant skeleton t-r-v-k inside teruvik preserves the English name's phonetic bones. First name in the document to encode a source-language name through consonant echo rather than semantic translation.
+- mansot uses the spatial particle so (under/beneath) as a root inside a name — first name to bake a spatial particle into an affiliation. It's not metaphorical; it's literally describing the action of a hand going down.
+- First Cordolia name. The cluster is Vergil's soulbonds — "My Love Arrives at My Door." Travis's name is the most register-consistent in the cast: everything casual, nothing sacred, no mixing. The love is there (tena, siru), but it's dressed in stops.
+
 ---
 
-### Kylar Schwarz → *[TBD]*
+### Kylar Schwarz → Nairu
+
+**Full Name:** savi-veri Nairu okunai nairu
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | | | | |
-| Personal | | | | |
-| Affiliation | | | | |
-| Secret | | | | |
+| Role | savi-veri | (savi).(veri) | compound (suffix) | "Becoming-knowledgeable" / "student." Still learning, still in process. Not savi-le (sage) or savi-ruma (finished knowing) — the -veri means he's not done. A student of what? The role trails off, incomplete. |
+| Personal | Nairu | (nai).v(iru) | blend with v-drop | "Love-obsession" / "empty spiral." nai and viru blended with the v dropped, the /i/ merging at the boundary. nai's polysemy does double work: nai-as-love gives "love-spiral," nai-as-absence gives "empty spiral." Both readings simultaneously — the obsession is made of love and made of nothing. |
+| Affiliation | okunai | (oku).(nai) | direct compound | "The color of absence" / black / Schwarz. Not oku-tume (shadow-color) but oku-*nai* — Schwarz rendered through absence rather than darkness. The black isn't shadow; it's the color of not-being-there. |
+| Secret | nairu | (nai).v(iru) | blend with v-drop | The same word as the personal name. Repeated. The spiral comes back. You reach the hidden layer and find the same thing that was on the surface — for the character defined by viru (obsession, tightening repetition), the name itself performs the obsession. It repeats, it tightens, there's nothing at the center except more spiral. |
+
+**Full reading:** "Student; love-obsession; of the color of absence; love-obsession." Four positions, but the personal name and the secret are identical. The name spirals back to itself.
 
 **Source notes:** DOL. Obsession at his core. Prefers to hide. Crush on Whitney that feels dangerous. Vergil is his beloved.
 
+**Notes:**
+- The only name in the document where two positions contain the same word. The repetition IS the character — viru (obsession/spiral/tightening repetition) encoded in the structure of the name rather than just the meaning.
+- nai appears in three of four positions: nairu, okunai, nairu. Love/absence saturates the name the way mere saturates Yua's. But where Yua's saturation is oceanic depth, Kylar's is love-that-is-also-emptiness, three times over.
+- okunai for black (color of absence) rather than the suggested oku-tume (shadow-color) is a deliberate choice. Kylar's darkness isn't shadow — it's *not being there*. The kid who prefers to hide.
+- The viru/veri near-rhyme means nairu almost sounds like it could contain veri (becoming) instead of viru (obsessing). Growth and fixation, one vowel apart. The name could have been about becoming; instead it's about spiraling.
+- Second Cordolia name. Where Travis is all casual register and hard stops, Kylar is soft — no register shifting, no truncation, everything open. The obsession doesn't snap; it draws out.
+
 ---
 
-### Kikkou Sadamune → *[TBD]*
+### Kikkou Sadamune → Rameru
+
+**Full Name:** vakukale Rameru benuvena lukademiva
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | | | | |
-| Personal | | | | |
-| Affiliation | | | | |
-| Secret | | | | |
+| Role | vakukale | (va)lo.(ku)tu.(ka)lu.(le) | clip chain + agent suffix | "Living-used-weapon-agent" / "living sword" / touken danshi. Four roots, four syllables. A sword given life: valo (alive) + kutu (used/instrumentalized) + kalu (weapon) + le (agent). kutu does thematic work beyond describing a sword — he's a tool that's *used*, and that's not reluctant, it's the point. "To be issued the strictest of orders is my master is my greatest joy." |
+| Personal | Rameru | (ram)u.(me)re.be(ru) | clip chain with tail clip | "Protect-sea-animal" / turtle. Three roots, three syllables. 亀 (kame) — the creature that IS its own protection. The shell is the thesis. ramu's first appearance in a personal name, debuting as armor. |
+| Affiliation | benuvena | (benu).(vena) | direct compound | "Good blood" / "noble lineage" / Sadamune. 定宗 — benu maps to 定 (established/right), vena (blood/vital force) maps to 宗 (origin/lineage/clan). Transparent, warm. The family name is simply "we have good blood." |
+| Secret | lukademiva | (luka).(demi).(va) | compound + assertion particle | "Bondage is the power dynamic, I declare!" / "control is freedom!" luka (freedom/bondage) + demi (dominance/submission) + va (assertion/emphasis). The first secret to include a particle — and it's the *assertion* particle. Every other secret whispers; Kikkou's proclaims. luka-demi (the binding power dynamic) plus va = "this IS freedom, and I'm not ashamed." The most intimate slot used for the loudest statement. |
+
+**Full reading:** "Living sword; turtle; of the good blood; bondage is the power dynamic, I tell you!" Four positions, fully armored — the dutiful weapon who loves his chains and says so.
 
 **Source notes:** Touken Ranbu. Dutiful masochism. Follows his master faithfully. "The strictest of orders is my greatest joy."
+
+**Notes:**
+- Contains both new roots coined this session: ramu (protect) in the personal name, luka (freedom/bondage) in the secret. The roots were created for this character and land exactly where they were needed.
+- kutu in the role makes this the third name to use the root (after Konoko and Ausma's kutukalu). Each use hits differently: Konoko's kutu is suffering (being used), Ausma's kutukalu is survival (the used stone that endures), Kikkou's vakukale is devotion (the living weapon that *wants* to be wielded).
+- lukademiva is the first secret to use an assertion particle (va). Structurally opposite to Vergil's ani-veri (quiet admission) and Kylar's nairu (silent repetition). Kikkou's deepest truth isn't whispered — it's declared.
+- The luka-demi compound was predicted in luka's lexicon entry as a natural compound. Its first actual use is in the name that prompted luka's creation.
+- Four positions fully armored, same structure as Vergil and Koume. Third Cordolia name — the cluster is developing a pattern of full armoring (Travis is the exception with three positions).
 
 ---
 
