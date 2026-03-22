@@ -303,7 +303,7 @@ These are intimate or self-chosen. Using a bare root or clip as your entire name
 - Merehai /me.ɾe.ˈhai/ (mere + halu + nai, compressed — "the sea that dreams of love" — spoken only to intimates)
 
 **Real names from the Veriko world:**
-- **anit Konoko mutamano ani-veri** /ˈa.nit ˈko.no.ko mu.ta.ˈma.no ˌa.ni.ˈʋe.ɾi/ — "Person-made-tool; familiarity grasps the color of truth; belonging to the many hands; becoming a person." Four positions, fully armored. The role names what instrumentalization produces (a person-made-tool), the personal name reaches for truth through what it can grasp and see, the affiliation is the syndicate, the secret is the hope of personhood.
+- **anit Konoko mutamano vera-savinai** /ˈa.nit ˈko.no.ko mu.ta.ˈma.no ˌʋe.ɾa.sa.ʋi.ˈnai/ — "Person-made-tool; familiarity grasps the color of truth; belonging to the many hands; true face, unknown." Four positions, fully armored. The role names what instrumentalization produces (a person-made-tool), the personal name reaches for truth through what it can grasp and see, the affiliation is the syndicate, the secret confesses that the true face is still unseen.
 - **sola Spira** /ˈso.la ˈspi.ɾa/ — "A solitary star; the lone power of wonder." Two positions, wide open. Maximum contrast with the name above.
 - **tume Sehalni** /ˈtu.me ˈse.hal.ni/ — "A shadow; the person who dreams of togetherness and apartness." Two positions, the name argues with itself.
 - **vena Denälk** /ˈʋe.na de.ˈnælk/ — "Blood; belonging to hunger." Two positions, syntactically incomplete on purpose.
