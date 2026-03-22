@@ -66,22 +66,23 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 ### Vergil → Konoko
 
-**Full Name:** kutu Konoko mutamano ani-veri
-**IPA:** /ˈku.tu ˈko.no.ko mu.ta.ˈma.no ˌa.ni.ˈʋe.ɾi/
+**Full Name:** anit Konoko mutamano ani-veri
+**IPA:** /ˈa.nit ˈko.no.ko mu.ta.ˈma.no ˌa.ni.ˈʋe.ɾi/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
-| Role | kutu | kutu | atomic | "Is used" / "the used one." Not a declaration of *being* a thing (resa) but of *being instrumentalized*. The difference matters — resa is categorical, kutu is relational. Someone is doing the using. The role names the dynamic, not the object. |
+| Role | anit | (ani).ku(t)u | fusion | "Person-tool." ani (person) fused with kutu (tool/use), where kutu's presence forces ani into casual register — personhood diminished by instrumentalization at the level of the word itself. Not a declaration of being used (kutu alone), but of *what being used makes you*: a person whose personhood has already been casualized. The fusion encodes the damage. |
 | Personal | Konoko | (ko).ma(no).(ko) | clip chain | ko appears twice with mano bridging, but the two ko's aren't the same word twice — they're the same root read differently on each side of the hand. ko carries home, hearth, belonging, familiarity, the small comfortable thing. So the name is a matrix of readings: home holds familiarity. Belonging touches hearth. The familiar reaches for the small comfortable thing. Every permutation of ko's meanings reaching through mano toward every other permutation. The meaning circulates rather than progresses — it keeps reaching. Shares the sound of the toki pona name (ilo Konoko, kon+oko = hidden-seeing) but builds from entirely different roots — in toki pona it's covert perception; in Naikoma it's belonging that can't stop reaching for itself. Two languages, same sound, different thesis. |
 | Affiliation | mutamano | (muta).(mano) | direct compound | "Many hands." The syndicate family name. The reach, the network, the implication that the syndicate *is* its members' hands doing work. Transparent enough that anyone who knows the roots can parse it — but "many hands" is innocuous on the surface. What kind of hands, doing what work, only insiders know. |
 | Secret | ani-veri | (ani).(veri) | compound (suffix) | "Becoming a person." With -veri as suffix (in-progress), this is the hidden admission: *I'm not a person yet, but I'm trying.* For someone whose role is kutu (used), the secret is the hope of being more than an instrument. More specific than the previous valo-veri (becoming alive) — not just life, but *personhood*. |
 
-**Full reading:** "Used; home-hand-home; belonging to the many hands; becoming a person."
+**Full reading:** "Person-made-tool; home-hand-home; belonging to the many hands; becoming a person."
 
 **Notes:**
 - Parallel to his toki pona name: ilo Konoko kute Lonpanpa. Both systems use the same moves (instrumentalization as role, Konoko as personal name, coded family name). But the Naikoma Konoko and the toki pona Konoko mean different things: hidden-seeing vs. home-hand-home. The name is a false cognate of itself.
 - The shift from Koamir to Konoko drops seeing (mira) and heart (kore) entirely. What remains is ko, twice — belonging is the whole identity now, not perception. The name stopped watching and started holding.
-- kutu as a role is the first name to use the new root. Its debut in the most central name in the document ties "use" to the world's core philosophy immediately.
+- anit as a role is a fusion where kutu forces ani into casual register — the personhood is already degraded by the time you hear the word. Compare to kutu alone (which names the dynamic of being used) — anit names what the dynamic *produces*. It's the scar, not the knife.
+- The tension between the role (anit — person casualized into tool) and the secret name (ani-veri — becoming a person) is the whole arc. The role says what was done; the secret says what he's doing about it. ani appears in both, damaged in one and hopeful in the other.
 - The mano inside Konoko (hand/touch/hold) echoes the mano inside mutamano (many hands). His personal name and his affiliation share a root — he's made of the same thing the syndicate is.
 - Mutamano is the syndicate — a separate entity from his loved ones. The family that made him, not the people who chose him.
 - Koume's expy is the only non-co-host member of mutamano.
