@@ -66,23 +66,23 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 ### Vergil → Konoko
 
-**Full Name:** anit Konoko mutamano ani-veri
-**IPA:** /ˈa.nit ˈko.no.ko mu.ta.ˈma.no ˌa.ni.ˈʋe.ɾi/
+**Full Name:** anit Konoko mutamano vera-savinai
+**IPA:** /ˈa.nit ˈko.no.ko mu.ta.ˈma.no ˌʋe.ɾa.sa.ʋi.ˈnai/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
 | Role | anit | (ani).ku(t)u | fusion | "Person-tool." ani (person) fused with kutu (tool/use), where kutu's presence forces ani into casual register — personhood diminished by instrumentalization at the level of the word itself. Not a declaration of being used (kutu alone), but of *what being used makes you*: a person whose personhood has already been casualized. The fusion encodes the damage. |
 | Personal | Konoko | (ko).ma(no).(ok)u.(ko)re | clip chain | Four roots in three syllables: ko (home/familiarity), mano (hand/grasp), oku (color/appearance), kore (heart/truth). The name is built to switch meanings at every position — "familiarity grasps the color of truth," but also "home holds what's visible at the core," "belonging touches the essence of the heart," and every other permutation the roots allow. The meaning circulates rather than progresses — it keeps reaching. ko appears twice from different roots (ko and kore), bookending the name with belonging and truth, the same sound carrying different weight on each side. Shares the sound of the toki pona name (ilo Konoko, kon+oko = hidden-seeing) but builds from entirely different roots — in toki pona it's covert perception; in Naikoma it's familiarity reaching for truth through what it can see and hold. Two languages, same sound, different thesis. |
 | Affiliation | mutamano | (muta).(mano) | direct compound | "Many hands." The syndicate family name. The reach, the network, the implication that the syndicate *is* its members' hands doing work. Transparent enough that anyone who knows the roots can parse it — but "many hands" is innocuous on the surface. What kind of hands, doing what work, only insiders know. |
-| Secret | ani-veri | (ani).(veri) | compound (suffix) | "Becoming a person." With -veri as suffix (in-progress), this is the hidden admission: *I'm not a person yet, but I'm trying.* For someone whose role is kutu (used), the secret is the hope of being more than an instrument. More specific than the previous valo-veri (becoming alive) — not just life, but *personhood*. |
+| Secret | vera-savinai | (ver)i.(sur)a.(savi).(nai) | clip chain | "True face, unknown." Four roots collapsed: veri (truth), sura (face/mask), savi (knowing), nai (not/absence). The true face is the one nobody knows. For someone whose personal name is built on grasping at truth through appearance (oku → kore), the secret admits the limit: the real face behind all the reaching is still unseen. And nai's polysemy: also "the true face that knowing loves" — the unknowing isn't failure, it's tenderness toward whatever's underneath. Always spoken in sacred register. Shared with exactly one person. |
 
-**Full reading:** "Person-made-tool; familiarity grasps the color of truth; belonging to the many hands; becoming a person."
+**Full reading:** "Person-made-tool; familiarity grasps the color of truth; belonging to the many hands; true face, unknown."
 
 **Notes:**
 - Parallel to his toki pona name: ilo Konoko kute Lonpanpa. Both systems use the same moves (instrumentalization as role, Konoko as personal name, coded family name). But the Naikoma Konoko and the toki pona Konoko mean different things: hidden-seeing vs. familiarity-hand-color-truth. The name is a false cognate of itself.
 - The shift from Koamir to Konoko doesn't drop seeing and heart — it buries them. mira becomes oku (seeing becomes color/appearance — the visible surface of a thing), and kore survives as the final syllable, its ko- onset fusing with the first ko to bookend the name. Perception didn't disappear; it changed registers. The name stopped watching from a distance and started grasping at what's right in front of it.
 - anit as a role is a fusion where kutu forces ani into casual register — the personhood is already degraded by the time you hear the word. Compare to kutu alone (which names the dynamic of being used) — anit names what the dynamic *produces*. It's the scar, not the knife.
-- The tension between the role (anit — person casualized into tool) and the secret name (ani-veri — becoming a person) is the whole arc. The role says what was done; the secret says what he's doing about it. ani appears in both, damaged in one and hopeful in the other.
+- The tension between the personal name and the secret is the real arc. Konoko (familiarity grasps the color of truth) is all about reaching toward what's real through what's visible. vera-savinai (true face, unknown) admits that the reaching hasn't arrived yet — the true face is still unseen. The name keeps grasping; the secret says it hasn't caught anything. And veri appears in the secret (vera-) just as kore appears in the personal name (-ko) — truth echoing across both positions, never fully resolved.
 - The mano inside Konoko (hand/touch/hold) echoes the mano inside mutamano (many hands). His personal name and his affiliation share a root — he's made of the same thing the syndicate is. And kore (heart/truth) at the end means the name lands on essence — what the grasping is *for*.
 - Mutamano is the syndicate — a separate entity from his loved ones. The family that made him, not the people who chose him.
 - Koume's expy is the only non-co-host member of mutamano.
@@ -755,7 +755,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 **Source notes:** Enstars OC. Beloved eldest sister. Nobody took her seriously. Shu was her last hope. **Also a member of mutamano** — bridges both the syndicate and the loved ones.
 
 **Notes:**
-- Four positions filled, fully armored — same structure as Vergil's (kutu Konoko mutamano ani-veri). She's the only non-co-host member of mutamano, and her name is equally fortified.
+- Four positions filled, fully armored — same structure as Vergil's (anit Konoko mutamano vera-savinai). She's the only non-co-host member of mutamano, and her name is equally fortified.
 - The contrast between role (varule — assassin) and personal name (Kobenu — familiar good) is the sharpest role/personal split in the document. Most names have some continuity between positions; Koume's name *argues with itself*.
 - Shares the mutamano affiliation with Vergil — but where it's his origin, it's her choice. Same word, different relationship to it.
 - voleruma uses the same ruma that appears in her role (varule). Ruin frames her from the outside in — the first thing you hear about her (life-ender) and the last thing she'd ever tell you (she wants it) share the same root.
@@ -937,7 +937,7 @@ Some clusters have shared construction rules that carry thematic meaning:
 **Notes:**
 - Contains both new roots coined this session: ramu (protect) in the personal name, luka (freedom/bondage) in the secret. The roots were created for this character and land exactly where they were needed.
 - kutu in the role makes this the third name to use the root (after Konoko and Ausma's kutukalu). Each use hits differently: Konoko's kutu is suffering (being used), Ausma's kutukalu is survival (the used stone that endures), Kikkou's vakukale is devotion (the living weapon that *wants* to be wielded).
-- lukademiva is the first secret to use an assertion particle (va). Structurally opposite to Vergil's ani-veri (quiet admission) and Kylar's nairu (silent repetition). Kikkou's deepest truth isn't whispered — it's declared.
+- lukademiva is the first secret to use an assertion particle (va). Structurally opposite to Vergil's vera-savinai (a confession of unknowing) and Kylar's nairu (silent repetition). Kikkou's deepest truth isn't whispered — it's declared.
 - The luka-demi compound was predicted in luka's lexicon entry as a natural compound. Its first actual use is in the name that prompted luka's creation.
 - Four positions fully armored, same structure as Vergil and Koume. Third Cordolia name — the cluster is developing a pattern of full armoring (Travis is the exception with three positions).
 
