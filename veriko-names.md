@@ -738,28 +738,29 @@ Some clusters have shared construction rules that carry thematic meaning:
 
 ---
 
-### Koume Oukawa → Kobenu
+### Koume Oukawa → Koben
 
-**Full Name:** varule Kobenu mutamano voleruma
-**IPA:** /ˈʋa.ɾu.le ˈko.be.nu mu.ta.ˈma.no ʋo.le.ˈɾu.ma/
+**Full Name:** varule Koben mutamano voleruma
+**IPA:** /ˈʋa.ɾu.le ˈko.ben mu.ta.ˈma.no ʋo.le.ˈɾu.ma/
 
 | Position | Word | Roots | Technique | Reading |
 |----------|------|-------|-----------|---------|
 | Role | varule | (va)lo.(ru)ma.(le) | clip chain + agent suffix | "Life-ending agent" / "assassin." valo (life) + ruma (decay/ending) + -le (agent). For someone dismissed as cutesy and pink, declaring *assassin* as your role position is a direct rejection of how others perceive you. The role belongs to the syndicate, not the idol stage. Shu was her last hope, and the name she carries after is a killer's title. |
-| Personal | Kobenu | (ko).(benu) | direct compound | "Familiar good" / "the goodness of home." Two roots, no fusion tricks, just warmth. The personal name underneath the assassin role is gentle — the beloved eldest sister living inside the killer. Echoes the shape of Koume (小梅) — ko maps to 小/ko, benu sits where 梅/ume would be, swapping the plum blossom for goodness. |
+| Personal | Koben | (ko).(ben)u | direct compound + register-shifting truncation | "Familiar good" / "the goodness of home" — hardened. Same roots as Kobenu, but the final -u is dropped, closing the syllable and pushing the name into casual register. The warmth is still there underneath, but the surface is clipped, guarded. The beloved eldest sister doesn't let the softness show. Echoes the shape of Koume (小梅) — ko maps to 小/ko, ben sits where 梅/ume would be, swapping the plum blossom for goodness, then cutting it short. |
 | Affiliation | mutamano | (muta).(mano) | direct compound | "Many hands." The syndicate name — shared with Vergil. She's the only non-co-host who carries it. For Vergil, mutamano is the family that made him; for Koume, it's the organization she *chose*. Same name, different weight. |
 | Secret | voleruma | (vole).(ruma) | direct compound | "Doom desire" / "choosing ending." She doesn't want to be considered cute — but voleruma is heavier than that. vole is deliberate choosing, not raw nälk-hunger. She *chooses* endings. Deliberately. Coldly. The secret underneath the warm name and the brutal role is that the brutality isn't reluctant. |
 
-**Full reading:** "Assassin; familiar goodness; of the many-handed; who desires doom." Fully armored in four positions — the warm name sandwiched between a killer's role and a killer's secret, held together by the reach of the people she protects.
+**Full reading:** "Assassin; familiar goodness, hardened; of the many-handed; who desires doom." Fully armored in four positions — the warm name sandwiched between a killer's role and a killer's secret, held together by the reach of the people she protects. The register shift on the personal name makes even the gentle core sound like it's bracing for impact.
 
 **Source notes:** Enstars OC. Beloved eldest sister. Nobody took her seriously. Shu was her last hope. **Also a member of mutamano** — bridges both the syndicate and the loved ones.
 
 **Notes:**
 - Four positions filled, fully armored — same structure as Vergil's (anit Konoko mutamano vera-savinai). She's the only non-co-host member of mutamano, and her name is equally fortified.
-- The contrast between role (varule — assassin) and personal name (Kobenu — familiar good) is the sharpest role/personal split in the document. Most names have some continuity between positions; Koume's name *argues with itself*.
+- The contrast between role (varule — assassin) and personal name (Koben — familiar good, hardened) is the sharpest role/personal split in the document. Most names have some continuity between positions; Koume's name *argues with itself*.
+- The register shift from Kobenu → Koben (truncation: dropping final -u to close the syllable) is itself a statement. The sacred-register form would let the goodness breathe; the casual-register form clips it. She doesn't let the warmth finish.
 - Shares the mutamano affiliation with Vergil — but where it's his origin, it's her choice. Same word, different relationship to it.
 - voleruma uses the same ruma that appears in her role (varule). Ruin frames her from the outside in — the first thing you hear about her (life-ender) and the last thing she'd ever tell you (she wants it) share the same root.
-- Continues the Cantus Astra pattern of rendering Japanese names through Naikoma semantics (kobenu echoes Koume's ko-ume structure).
+- Continues the Cantus Astra pattern of rendering Japanese names through Naikoma semantics (Koben echoes Koume's ko-ume structure, truncated).
 
 ---
 
